@@ -1,0 +1,85 @@
+# ☁️ Cloud & SaaS Subscription Sprawl — AI-Powered BI Platform
+
+**AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 (BharatCares)**
+**Author:** Mohammad Ayan Ansari — Indian Institute of Technology, Madras
+**Trainer:** Mr. Kartik Hooda | **Mode:** Online | **Date:** September 2026
+
+## 📌 Overview
+Enterprises lose 30–40% of SaaS spend to unused licenses, duplicate tools (Slack + Teams + Zoom), and risky auto-renewals.
+This project converts **600 raw SaaS subscriptions into a decision platform** that answers:
+
+> What are we spending? Where is it wasted? Why? What is the risk? What should we DO?
+
+**Business Intelligence flow:** Data → KPIs → Trends → Drivers → Risks & Opportunities → Recommended Actions.
+
+## 🎯 Key Results (on included dataset)
+- **Monthly Spend:** $1,126,679 | **Annual Contract:** $12,717,123
+- **Monthly Waste:** $447,613 (**39.7%** of spend) — 168/600 subs <40% utilized
+- **Avg Utilization:** 59.8% | **High-risk renewals:** 64
+- **AI Model (Random Forest, waste prediction):** Accuracy **97.5%**, Precision 94.3%, Recall 97.1%, F1 95.7%
+
+## 🗂️ Dataset
+- **File:** `dataset_saas_sprawl.csv` (600 rows × 22 columns)
+- **Source:** Synthetic dataset generated for this project, modelled on real-world SaaS patterns
+  (patterns inspired by public Kaggle SaaS / subscription datasets). No masterclass learning dataset used.
+- **Dataset link (this repo):** _paste your GitHub repo link here after upload, e.g._
+  `https://github.com/<your-username>/saas-sprawl-bi/blob/main/dataset_saas_sprawl.csv`
+- **Columns:** Subscription_ID, Owner_ID, Department, SaaS_Tool, Category, Plan_Type,
+  Cost_Per_License_Month, Licenses_Purchased, Licenses_Used, Utilization_Pct,
+  Last_Login_Days_Ago, Renewal_Date, Annual_Contract_Value, Monthly_Spend,
+  Auto_Renew, Status, Region, Unused_Licenses, Waste_Monthly, Waste_Flag,
+  Days_to_Renewal, Renewal_Risk
+
+## 🏗️ Architecture
+- **Backend:** Python + Pandas (cleaning/EDA) + Scikit-learn RandomForest (waste prediction)
+- **Frontend:** Streamlit (5 pages) + Plotly (interactive charts) — **single file `app.py`**
+- **Pages:**
+  1. Executive Overview (Top KPIs)
+  2. Cost & Product Analysis (waste by tool, duplicates)
+  3. Risk & Renewal Analysis (≤90-day renewals, high-risk table + CSV export)
+  4. AI Waste Predictor (live prediction + feature importance)
+  5. Fact → Action Board (30-60-90 day playbook)
+
+## ⚙️ Tech Stack
+Python, Pandas, NumPy, Scikit-learn, Streamlit, Plotly, Matplotlib, Seaborn
+
+## 🚀 Quick Start (localhost)
+```bash
+# 1. Clone / download this repo, keep app.py + dataset_saas_sprawl.csv together
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the app
+streamlit run app.py
+# Open http://localhost:8501 in your browser
+```
+
+## 📊 How to Use
+1. Use sidebar filters (Department / Category / Risk) — all KPIs & charts update.
+2. Page 1: read headline KPIs + spend trend.
+3. Page 2: find top waste tools & duplicate stacks to consolidate.
+4. Page 3: download high-risk renewals CSV before auto-renew dates.
+5. Page 4: enter any new subscription → AI predicts Wasteful / Efficient.
+6. Page 5: copy the 30-60-90 day action playbook for management.
+
+## 🧠 Model Details
+- **Target:** `Waste_Flag` = 1 if Utilization < 40% & Active
+- **Features:** cost, licenses, utilization, dormancy, contract value, days-to-renewal, unused seats + one-hot(Category, Plan_Type, Auto_Renew, Department)
+- **Split:** 80/20 stratified, seed 42 | **Model:** RandomForest (200 trees, depth 12, balanced)
+- **Top drivers:** Utilization_Pct, Unused_Licenses, Licenses_Used, Last_Login_Days_Ago, Monthly_Spend
+
+## 📁 Files for Submission
+| File | Description |
+|---|---|
+| `app.py` | Single-file code (frontend + backend + ML) |
+| `requirements.txt` | Python dependencies |
+| `README.md` | This file |
+| `Mohammad_Ayan_Ansari_SaaS_Sprawl_Project_Report.pdf` | Full project report with UI outputs |
+| `dataset_saas_sprawl.csv` | Dataset (link in report + repo) |
+
+## ✅ Declaration
+Original work for internship evaluation. Masterclass learning dataset NOT used. Built with guidance from
+masterclass framework + IBM BOB-style AI-assisted workflow (planning → prompting → approval → documentation).
+
+## 👤 Contact
+Mohammad Ayan Ansari · IIT Madras · September 2026

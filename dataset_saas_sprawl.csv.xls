@@ -1,0 +1,601 @@
+Subscription_ID,Owner_ID,Department,SaaS_Tool,Category,Plan_Type,Cost_Per_License_Month,Licenses_Purchased,Licenses_Used,Utilization_Pct,Last_Login_Days_Ago,Renewal_Date,Annual_Contract_Value,Monthly_Spend,Auto_Renew,Status,Region,Unused_Licenses,Waste_Monthly,Waste_Flag,Days_to_Renewal,Renewal_Risk
+SUB0001,EMP1130,Engineering,Notion,Project Management,Annual,10.11,200,162,81.3,2,2026-06-17,20624.4,2022.0,Yes,Active,East,38,384.18,0,-98,Low
+SUB0002,EMP1048,HR,Zoho CRM,CRM & Sales,Monthly,40.51,10,9,96.3,97,2026-08-14,4861.2,405.1,Yes,Inactive,South,1,40.51,0,-40,Low
+SUB0003,EMP1130,Sales,Trello,Project Management,Annual,5.75,150,58,39.1,38,2026-08-14,8797.5,862.5,Yes,Active,West,92,529.0,1,-40,Medium
+SUB0004,EMP1083,Engineering,Zoom,Communication,Enterprise,18.18,50,3,7.3,116,2026-10-23,10908.0,909.0,Yes,Active,North,47,854.46,1,30,High
+SUB0005,EMP1053,HR,Salesforce,CRM & Sales,Monthly,155.65,50,45,91.7,9,2026-03-08,93390.0,7782.5,No,Active,North,5,778.25,0,-199,Low
+SUB0006,EMP1189,HR,Okta,Security,Annual,12.15,30,10,34.5,65,2026-12-05,3717.9,364.5,No,Active,West,20,243.0,1,73,Medium
+SUB0007,EMP1088,Design,HubSpot,CRM & Sales,Monthly,101.58,10,8,80.8,18,2026-04-11,12189.6,1015.8,Yes,Active,East,2,203.16,0,-165,Low
+SUB0008,EMP1040,Marketing,Slack,Communication,Enterprise,7.91,75,50,67.9,4,2026-09-17,7119.0,593.25,No,Active,West,25,197.75,0,-6,Low
+SUB0009,EMP1103,Finance,Jenkins,Engineering,Enterprise,0.0,100,69,69.6,1,2026-04-24,0.0,0.0,Yes,Active,South,31,0.0,0,-152,Low
+SUB0010,EMP1136,Product,Salesforce,CRM & Sales,Monthly,177.92,15,9,60.3,28,2026-07-24,32025.6,2668.8,No,Active,North,6,1067.52,0,-61,Low
+SUB0011,EMP1150,Support,Asana,Project Management,Annual,12.25,150,13,8.8,87,2026-04-25,18742.5,1837.5,Yes,Active,North,137,1678.25,1,-151,Medium
+SUB0012,EMP1133,Product,Docker Hub,Engineering,Annual,9.45,200,76,38.0,92,2026-11-18,19278.0,1890.0,Yes,Active,East,124,1171.8,1,56,High
+SUB0013,EMP1189,Design,Zoom,Communication,Annual,17.62,20,15,78.7,45,2026-04-27,3594.48,352.4,Yes,Active,North,5,88.1,0,-149,Low
+SUB0014,EMP1058,Sales,Tableau,Data & Analytics,Monthly,77.51,100,62,62.2,13,2026-09-10,93012.0,7751.0,Yes,Active,East,38,2945.38,0,-13,Low
+SUB0015,EMP1112,HR,Snowflake,Data & Analytics,Monthly,251.45,75,53,71.0,65,2026-04-02,226305.0,18858.75,Yes,Active,North,22,5531.9,0,-174,Medium
+SUB0016,EMP1171,HR,Zoom,Communication,Enterprise,14.6,200,154,77.1,6,2026-11-28,35040.0,2920.0,Yes,Active,East,46,671.6,0,66,Medium
+SUB0017,EMP1197,HR,Asana,Project Management,Annual,14.71,30,8,28.5,51,2026-09-23,4501.26,441.3,Yes,Active,North,22,323.62,1,0,High
+SUB0018,EMP1146,Finance,Tableau,Data & Analytics,Annual,80.55,5,1,22.8,107,2026-04-29,4108.05,402.75,Yes,Active,West,4,322.2,1,-147,Medium
+SUB0019,EMP1150,Marketing,Snowflake,Data & Analytics,Monthly,219.27,50,14,29.2,114,2026-02-20,131562.0,10963.5,Yes,Active,East,36,7893.72,1,-215,High
+SUB0020,EMP1139,HR,Docker Hub,Engineering,Annual,9.94,150,42,28.1,79,2026-07-13,15208.2,1491.0,Yes,Active,East,108,1073.52,1,-72,Medium
+SUB0021,EMP1115,Marketing,Jira,Project Management,Annual,11.29,200,29,14.8,106,2026-11-09,23031.6,2258.0,Yes,Active,South,171,1930.59,1,47,High
+SUB0022,EMP1193,Design,Microsoft Azure,Cloud Infra,Monthly,397.17,1,1,84.4,56,2026-12-22,5044.44,420.37,Yes,Active,West,0,0.0,0,90,Medium
+SUB0023,EMP1127,HR,Figma,Design,Annual,15.35,100,5,5.6,46,2026-05-14,15657.0,1535.0,No,Active,East,95,1458.25,1,-132,Medium
+SUB0024,EMP1020,HR,Google Workspace,Communication,Annual,13.45,200,133,66.7,72,2026-05-24,27438.0,2690.0,No,Active,North,67,901.15,0,-122,Medium
+SUB0025,EMP1045,Support,GitLab,Engineering,Annual,28.14,5,1,30.3,32,2026-08-24,1435.14,140.7,Yes,Active,East,4,112.56,1,-30,Medium
+SUB0026,EMP1159,HR,Jira,Project Management,Enterprise,10.32,15,14,96.9,16,2026-07-28,1857.6,154.8,No,Inactive,East,1,10.32,0,-57,Low
+SUB0027,EMP1085,Design,Salesforce,CRM & Sales,Enterprise,187.12,15,3,24.5,92,2026-07-28,33681.6,2806.8,Yes,Active,West,12,2245.44,1,-57,High
+SUB0028,EMP1025,Marketing,QuickBooks,HR & Finance,Annual,38.93,200,32,16.3,42,2026-09-16,79417.2,7786.0,Yes,Active,East,168,6540.24,1,-7,Medium
+SUB0029,EMP1141,HR,Monday.com,Project Management,Enterprise,14.42,100,58,58.6,19,2026-03-12,17304.0,1442.0,Yes,Active,East,42,605.64,0,-195,Low
+SUB0030,EMP1149,Support,Coursera,Learning,Enterprise,49.47,50,12,25.3,90,2026-04-30,29682.0,2473.5,Yes,Active,West,38,1879.86,1,-146,High
+SUB0031,EMP1107,HR,Snowflake,Data & Analytics,Annual,214.68,30,1,6.4,78,2026-04-30,65692.08,6440.4,No,Active,South,29,6225.72,1,-146,High
+SUB0032,EMP1105,Design,Box,Storage,Annual,18.05,20,12,63.6,24,2026-02-20,3682.2,361.0,Yes,Active,North,8,144.4,0,-215,Low
+SUB0033,EMP1139,Sales,Google Workspace,Communication,Monthly,15.2,5,3,74.1,5,2026-03-09,912.0,76.0,Yes,Active,South,2,30.4,0,-198,Low
+SUB0034,EMP1191,Support,Microsoft Azure,Cloud Infra,Annual,364.78,1,1,74.5,4,2026-12-08,2384.25,233.75,Yes,Active,North,0,0.0,0,76,Medium
+SUB0035,EMP1046,Support,Tableau,Data & Analytics,Annual,78.11,30,17,57.1,3,2026-02-13,23901.66,2343.3,Yes,Active,West,13,1015.43,0,-222,Medium
+SUB0036,EMP1009,Finance,OneDrive,Storage,Monthly,7.62,20,1,5.6,102,2026-05-07,1828.8,152.4,Yes,Active,North,19,144.78,1,-139,Medium
+SUB0037,EMP1023,Finance,Notion,Project Management,Enterprise,10.56,20,3,18.1,75,2026-11-09,2534.4,211.2,Yes,Active,East,17,179.52,1,47,High
+SUB0038,EMP1178,Finance,Notion,Project Management,Enterprise,11.35,10,2,25.5,81,2026-05-22,1362.0,113.5,Yes,Active,West,8,90.8,1,-124,Medium
+SUB0039,EMP1080,Design,Microsoft Azure,Cloud Infra,Enterprise,361.64,1,1,83.7,4,2026-05-18,3953.16,329.43,Yes,Active,North,0,0.0,0,-128,Low
+SUB0040,EMP1119,Marketing,Adobe Creative Cloud,Design,Annual,57.9,150,105,70.0,13,2026-09-10,88587.0,8685.0,Yes,Active,North,45,2605.5,0,-13,Low
+SUB0041,EMP1095,HR,GitHub,Engineering,Annual,21.12,25,19,79.1,16,2026-07-30,5385.6,528.0,No,Active,South,6,126.72,0,-55,Low
+SUB0042,EMP1085,Marketing,Snowflake,Data & Analytics,Monthly,238.69,25,7,28.8,51,2026-05-18,71607.0,5967.25,Yes,Active,North,18,4296.42,1,-128,High
+SUB0043,EMP1082,Product,Udemy Business,Learning,Monthly,40.55,15,8,55.5,1,2026-04-27,7299.0,608.25,No,Active,West,7,283.85,0,-149,Low
+SUB0044,EMP1180,Sales,Microsoft Teams,Communication,Annual,12.98,25,6,26.1,49,2026-12-12,3309.9,324.5,No,Active,East,19,246.62,1,80,Medium
+SUB0045,EMP1185,HR,GitHub,Engineering,Annual,22.77,50,28,57.5,15,2026-09-15,11612.7,1138.5,No,Active,North,22,500.94,0,-8,Low
+SUB0046,EMP1082,Sales,Zoho CRM,CRM & Sales,Annual,41.32,30,8,29.5,103,2026-09-15,12643.92,1239.6,Yes,Active,North,22,909.04,1,-8,Medium
+SUB0047,EMP1107,Sales,Dropbox,Storage,Annual,18.68,5,3,65.4,17,2026-05-08,952.68,93.4,Yes,Active,South,2,37.36,0,-138,Low
+SUB0048,EMP1199,Design,Monday.com,Project Management,Annual,16.14,200,33,16.6,52,2026-05-28,32925.6,3228.0,Yes,Active,South,167,2695.38,1,-118,High
+SUB0049,EMP1116,Support,Adobe Creative Cloud,Design,Monthly,57.55,100,85,85.0,10,2026-06-24,69060.0,5755.0,Yes,Active,South,15,863.25,0,-91,Low
+SUB0050,EMP1048,HR,1Password,Security,Enterprise,9.03,25,9,37.4,52,2026-09-11,2709.0,225.75,Yes,Active,East,16,144.48,1,-12,Medium
+SUB0051,EMP1151,Product,Power BI,Data & Analytics,Annual,22.51,5,4,80.7,0,2026-04-13,1148.01,112.55,No,Active,West,1,22.51,0,-163,Low
+SUB0052,EMP1154,Design,OneDrive,Storage,Annual,6.97,75,20,27.6,50,2026-04-08,5332.05,522.75,Yes,Active,North,55,383.35,1,-168,Medium
+SUB0053,EMP1114,HR,Zoho CRM,CRM & Sales,Annual,47.28,5,1,19.4,54,2026-02-18,2411.28,236.4,Yes,Active,North,4,189.12,1,-217,Medium
+SUB0054,EMP1064,Engineering,Jenkins,Engineering,Annual,0.0,100,96,96.0,40,2026-01-17,0.0,0.0,Yes,Active,South,4,0.0,0,-249,Low
+SUB0055,EMP1128,HR,Coursera,Learning,Annual,48.91,5,4,88.0,35,2026-07-27,2494.41,244.55,Yes,Inactive,North,1,48.91,0,-58,Low
+SUB0056,EMP1082,Engineering,Jira,Project Management,Monthly,12.07,50,45,90.8,113,2026-07-22,7242.0,603.5,No,Active,South,5,60.35,0,-63,Low
+SUB0057,EMP1071,Engineering,Jira,Project Management,Monthly,11.04,100,38,38.4,50,2026-09-03,13248.0,1104.0,Yes,Active,East,62,684.48,1,-20,Medium
+SUB0058,EMP1056,HR,Jira,Project Management,Monthly,10.82,150,133,89.0,38,2026-07-21,19476.0,1623.0,Yes,Active,East,17,183.94,0,-64,Low
+SUB0059,EMP1097,HR,Dropbox,Storage,Annual,17.84,50,41,82.3,4,2026-02-19,9098.4,892.0,Yes,Active,South,9,160.56,0,-216,Low
+SUB0060,EMP1080,Design,Norton,Security,Annual,5.17,200,60,30.4,70,2026-11-29,10546.8,1034.0,Yes,Active,South,140,723.8,1,67,High
+SUB0061,EMP1125,Support,Expensify,HR & Finance,Enterprise,10.91,20,18,92.1,1,2026-01-17,2618.4,218.2,Yes,Active,South,2,21.82,0,-249,Low
+SUB0062,EMP1183,Sales,Trello,Project Management,Annual,5.59,200,19,9.5,43,2026-02-20,11403.6,1118.0,Yes,Active,West,181,1011.79,1,-215,Medium
+SUB0063,EMP1021,Support,Docker Hub,Engineering,Annual,9.45,15,14,97.8,5,2026-10-27,1445.85,141.75,Yes,Active,West,1,9.45,0,34,Medium
+SUB0064,EMP1046,Engineering,QuickBooks,HR & Finance,Monthly,39.32,5,3,70.7,2,2026-05-01,2359.2,196.6,Yes,Active,North,2,78.64,0,-145,Low
+SUB0065,EMP1046,Support,Google Workspace,Communication,Annual,12.81,75,71,95.5,6,2026-10-22,9799.65,960.75,No,Active,East,4,51.24,0,29,Low
+SUB0066,EMP1002,HR,Trello,Project Management,Annual,6.2,30,9,31.6,94,2026-01-23,1897.2,186.0,Yes,Active,South,21,130.2,1,-243,Medium
+SUB0067,EMP1016,Design,DigitalOcean,Cloud Infra,Enterprise,96.13,1,1,59.7,5,2026-04-09,1498.44,124.87,Yes,Inactive,South,0,0.0,0,-167,Low
+SUB0068,EMP1110,Marketing,Workday,HR & Finance,Monthly,54.22,150,97,65.3,12,2026-05-10,97596.0,8133.0,Yes,Active,East,53,2873.66,0,-136,Low
+SUB0069,EMP1058,HR,QuickBooks,HR & Finance,Annual,34.81,75,59,79.8,8,2026-11-25,26629.65,2610.75,Yes,Active,North,16,556.96,0,63,Medium
+SUB0070,EMP1093,Sales,BambooHR,HR & Finance,Enterprise,17.21,25,13,55.3,9,2026-06-28,5163.0,430.25,No,Active,North,12,206.52,0,-87,Low
+SUB0071,EMP1074,Engineering,1Password,Security,Monthly,7.23,50,28,57.3,23,2026-12-30,4338.0,361.5,No,Active,North,22,159.06,0,98,Low
+SUB0072,EMP1172,Marketing,Zoho CRM,CRM & Sales,Enterprise,48.63,30,22,76.6,34,2026-09-20,17506.8,1458.9,Yes,Active,West,8,389.04,0,-3,Low
+SUB0073,EMP1037,Design,Dropbox,Storage,Annual,15.75,30,25,86.3,26,2026-07-13,4819.5,472.5,Yes,Active,South,5,78.75,0,-72,Low
+SUB0074,EMP1129,Engineering,Power BI,Data & Analytics,Annual,20.97,200,138,69.1,9,2026-06-15,42778.8,4194.0,Yes,Active,South,62,1300.14,0,-100,Low
+SUB0075,EMP1094,Engineering,Tableau,Data & Analytics,Monthly,67.55,10,1,9.9,40,2026-06-22,8106.0,675.5,Yes,Active,West,9,607.95,1,-93,Medium
+SUB0076,EMP1063,Design,Adobe Creative Cloud,Design,Enterprise,68.06,10,3,30.6,46,2026-01-25,8167.2,680.6,No,Active,East,7,476.42,1,-241,Medium
+SUB0077,EMP1131,Design,Workday,HR & Finance,Annual,51.75,200,127,63.9,3,2026-10-25,105570.0,10350.0,Yes,Active,South,73,3777.75,0,32,Medium
+SUB0078,EMP1152,Finance,DigitalOcean,Cloud Infra,Monthly,95.93,1,1,90.9,12,2026-04-21,1226.52,102.21,No,Active,South,0,0.0,0,-155,Low
+SUB0079,EMP1041,Engineering,Google Workspace,Communication,Annual,13.4,50,28,57.9,15,2026-06-07,6834.0,670.0,Yes,Active,East,22,294.8,0,-108,Low
+SUB0080,EMP1195,Engineering,Google Workspace,Communication,Monthly,15.36,5,4,94.3,3,2026-04-24,921.6,76.8,Yes,Active,West,1,15.36,0,-152,Low
+SUB0081,EMP1014,Marketing,Box,Storage,Annual,16.66,150,132,88.2,15,2026-05-19,25489.8,2499.0,Yes,Active,North,18,299.88,0,-127,Low
+SUB0082,EMP1026,Sales,Box,Storage,Annual,19.67,25,18,73.0,0,2026-08-07,5015.85,491.75,Yes,Active,South,7,137.69,0,-47,Low
+SUB0083,EMP1103,Sales,Jira,Project Management,Monthly,10.05,200,140,70.1,11,2026-04-16,24120.0,2010.0,Yes,Active,South,60,603.0,0,-160,Low
+SUB0084,EMP1105,Sales,Power BI,Data & Analytics,Annual,20.96,100,30,30.4,39,2026-12-02,21379.2,2096.0,No,Inactive,South,70,1467.2,0,70,Medium
+SUB0085,EMP1089,Engineering,Coursera,Learning,Annual,45.38,150,11,7.7,105,2026-11-29,69431.4,6807.0,Yes,Active,North,139,6307.82,1,67,High
+SUB0086,EMP1179,Product,Datadog,Data & Analytics,Enterprise,30.31,30,20,69.6,5,2026-08-10,10911.6,909.3,Yes,Active,East,10,303.1,0,-44,Low
+SUB0087,EMP1016,Product,Salesforce,CRM & Sales,Annual,170.67,150,108,72.5,50,2026-05-07,261125.1,25600.5,Yes,Active,South,42,7168.14,0,-139,Medium
+SUB0088,EMP1062,Support,Adobe Creative Cloud,Design,Annual,56.64,200,122,61.2,13,2026-06-02,115545.6,11328.0,No,Active,South,78,4417.92,0,-113,Low
+SUB0089,EMP1188,Design,GitHub,Engineering,Monthly,19.83,150,42,28.2,116,2026-02-24,35694.0,2974.5,Yes,Active,East,108,2141.64,1,-211,High
+SUB0090,EMP1172,Engineering,Jira,Project Management,Monthly,11.42,50,29,58.0,4,2026-11-24,6852.0,571.0,Yes,Active,West,21,239.82,0,62,Medium
+SUB0091,EMP1178,Sales,Norton,Security,Annual,5.38,75,50,67.9,15,2026-07-15,4115.7,403.5,Yes,Active,North,25,134.5,0,-70,Low
+SUB0092,EMP1054,HR,1Password,Security,Monthly,8.7,5,2,58.3,6,2026-11-24,522.0,43.5,Yes,Active,East,3,26.1,0,62,Medium
+SUB0093,EMP1066,Product,Monday.com,Project Management,Monthly,16.61,10,7,73.0,5,2026-03-13,1993.2,166.1,Yes,Active,North,3,49.83,0,-194,Low
+SUB0094,EMP1141,Product,Zoho CRM,CRM & Sales,Enterprise,48.63,75,10,13.5,107,2026-10-31,43767.0,3647.25,Yes,Active,East,65,3160.95,1,38,High
+SUB0095,EMP1046,Design,Microsoft Azure,Cloud Infra,Monthly,361.75,1,1,8.0,46,2026-08-01,2343.24,195.27,Yes,Active,East,0,0.0,1,-53,Medium
+SUB0096,EMP1052,Engineering,OneDrive,Storage,Annual,7.32,200,36,18.3,54,2026-08-16,14932.8,1464.0,Yes,Active,East,164,1200.48,1,-38,Medium
+SUB0097,EMP1113,Marketing,Trello,Project Management,Monthly,5.57,20,17,89.3,16,2026-12-26,1336.8,111.4,Yes,Active,East,3,16.71,0,94,Low
+SUB0098,EMP1108,Sales,Notion,Project Management,Monthly,9.64,100,82,82.9,3,2026-11-01,11568.0,964.0,No,Active,South,18,173.52,0,39,Low
+SUB0099,EMP1121,Finance,Figma,Design,Annual,13.94,25,9,37.0,81,2026-04-11,3554.7,348.5,Yes,Active,South,16,223.04,1,-165,Medium
+SUB0100,EMP1052,HR,Jenkins,Engineering,Annual,0.0,25,2,9.8,111,2026-11-15,0.0,0.0,Yes,Active,East,23,0.0,1,53,High
+SUB0101,EMP1035,Design,Box,Storage,Monthly,18.54,5,3,71.9,0,2026-03-02,1112.4,92.7,No,Active,East,2,37.08,0,-205,Low
+SUB0102,EMP1151,Sales,Google Workspace,Communication,Annual,15.8,25,18,74.2,25,2026-08-11,4029.0,395.0,No,Active,West,7,110.6,0,-43,Low
+SUB0103,EMP1153,Engineering,Figma,Design,Enterprise,15.52,25,16,66.9,3,2026-11-04,4656.0,388.0,No,Active,North,9,139.68,0,42,Low
+SUB0104,EMP1130,Marketing,Jenkins,Engineering,Annual,0.0,100,30,30.5,74,2026-09-09,0.0,0.0,Yes,Active,East,70,0.0,1,-14,Medium
+SUB0105,EMP1046,Design,Microsoft Azure,Cloud Infra,Monthly,376.29,1,1,25.7,112,2026-02-19,2878.08,239.84,No,Active,West,0,0.0,1,-216,Medium
+SUB0106,EMP1011,Engineering,Okta,Security,Monthly,13.08,75,62,83.1,25,2026-08-21,11772.0,981.0,No,Active,North,13,170.04,0,-33,Low
+SUB0107,EMP1134,Marketing,Jira,Project Management,Monthly,9.57,150,42,28.4,82,2026-12-31,17226.0,1435.5,Yes,Active,North,108,1033.56,1,99,Medium
+SUB0108,EMP1145,Marketing,Snowflake,Data & Analytics,Monthly,204.34,25,15,63.5,10,2026-10-18,61302.0,5108.5,No,Inactive,West,10,2043.4,0,25,Low
+SUB0109,EMP1182,Engineering,Monday.com,Project Management,Annual,15.32,50,12,25.9,40,2026-01-29,7813.2,766.0,Yes,Active,East,38,582.16,1,-237,Medium
+SUB0110,EMP1125,Engineering,Snowflake,Data & Analytics,Annual,241.49,50,39,78.7,7,2026-08-17,123159.9,12074.5,No,Active,East,11,2656.39,0,-37,Low
+SUB0111,EMP1028,HR,Salesforce,CRM & Sales,Annual,184.58,15,8,55.9,15,2026-12-09,28240.74,2768.7,No,Active,North,7,1292.06,0,77,Medium
+SUB0112,EMP1064,Support,Docker Hub,Engineering,Annual,8.71,25,20,80.6,10,2026-02-03,2221.05,217.75,Yes,Active,South,5,43.55,0,-232,Low
+SUB0113,EMP1072,Marketing,Zoho CRM,CRM & Sales,Monthly,50.09,15,10,68.1,25,2026-08-04,9016.2,751.35,Yes,Active,South,5,250.45,0,-50,Low
+SUB0114,EMP1045,Engineering,Datadog,Data & Analytics,Monthly,35.26,100,64,64.6,30,2026-02-02,42312.0,3526.0,Yes,Active,South,36,1269.36,0,-233,Low
+SUB0115,EMP1109,Support,Jenkins,Engineering,Annual,0.0,10,3,39.7,50,2026-12-11,0.0,0.0,Yes,Active,South,7,0.0,1,79,High
+SUB0116,EMP1008,Marketing,Figma,Design,Monthly,17.09,10,5,56.6,34,2026-10-20,2050.8,170.9,Yes,Active,North,5,85.45,0,27,Medium
+SUB0117,EMP1012,Engineering,Tableau,Data & Analytics,Enterprise,77.16,150,99,66.5,13,2026-12-30,138888.0,11574.0,No,Active,West,51,3935.16,0,98,Low
+SUB0118,EMP1152,HR,HubSpot,CRM & Sales,Monthly,82.14,100,80,80.5,41,2026-04-07,98568.0,8214.0,Yes,Active,West,20,1642.8,0,-169,Low
+SUB0119,EMP1132,Finance,Docker Hub,Engineering,Enterprise,9.34,150,125,83.8,1,2026-05-30,16812.0,1401.0,Yes,Active,South,25,233.5,0,-116,Low
+SUB0120,EMP1092,Engineering,HubSpot,CRM & Sales,Monthly,95.3,10,1,12.7,36,2026-11-07,11436.0,953.0,Yes,Active,South,9,857.7,1,45,High
+SUB0121,EMP1096,Product,Power BI,Data & Analytics,Enterprise,20.83,15,12,84.8,6,2026-11-17,3749.4,312.45,No,Active,East,3,62.49,0,55,Low
+SUB0122,EMP1044,Finance,Jira,Project Management,Monthly,11.89,100,65,65.5,2,2026-09-13,14268.0,1189.0,Yes,Active,East,35,416.15,0,-10,Low
+SUB0123,EMP1076,Support,Box,Storage,Enterprise,19.89,15,8,55.2,5,2026-11-28,3580.2,298.35,Yes,Active,East,7,139.23,0,66,Medium
+SUB0124,EMP1162,Sales,Microsoft Teams,Communication,Annual,12.27,50,3,7.9,80,2026-02-12,6257.7,613.5,Yes,Inactive,East,47,576.69,0,-223,Medium
+SUB0125,EMP1095,Finance,Google Cloud,Cloud Infra,Monthly,365.04,1,1,78.8,20,2026-12-07,4436.64,369.72,Yes,Active,North,0,0.0,0,75,Medium
+SUB0126,EMP1013,Support,Trello,Project Management,Annual,5.5,20,17,86.2,17,2026-05-07,1122.0,110.0,Yes,Cancelled,East,3,16.5,0,-139,Low
+SUB0127,EMP1057,Support,GitLab,Engineering,Enterprise,28.88,20,16,81.2,1,2026-10-27,6931.2,577.6,Yes,Active,North,4,115.52,0,34,Medium
+SUB0128,EMP1115,HR,Tableau,Data & Analytics,Monthly,75.49,10,3,39.9,70,2026-03-01,9058.8,754.9,No,Active,East,7,528.43,1,-206,Medium
+SUB0129,EMP1186,Support,Zoom,Communication,Enterprise,18.19,20,13,67.0,3,2026-06-07,4365.6,363.8,No,Active,North,7,127.33,0,-108,Low
+SUB0130,EMP1023,HR,OneDrive,Storage,Enterprise,7.01,15,5,39.4,110,2026-03-25,1261.8,105.15,Yes,Inactive,East,10,70.1,0,-182,Medium
+SUB0131,EMP1130,Sales,Workday,HR & Finance,Annual,61.44,200,126,63.2,29,2026-10-09,125337.6,12288.0,No,Active,East,74,4546.56,0,16,Low
+SUB0132,EMP1083,Sales,GitLab,Engineering,Annual,27.44,25,24,97.6,12,2026-01-01,6997.2,686.0,Yes,Active,East,1,27.44,0,-265,Low
+SUB0133,EMP1071,Finance,Box,Storage,Annual,19.13,30,3,10.6,59,2026-08-04,5853.78,573.9,Yes,Active,West,27,516.51,1,-50,Medium
+SUB0134,EMP1178,Support,GitLab,Engineering,Annual,28.21,10,8,81.4,23,2026-11-10,2877.42,282.1,No,Cancelled,East,2,56.42,0,48,Low
+SUB0135,EMP1096,Marketing,Okta,Security,Monthly,10.86,5,1,25.0,73,2026-03-18,651.6,54.3,Yes,Active,South,4,43.44,1,-189,Medium
+SUB0136,EMP1121,Support,Datadog,Data & Analytics,Annual,34.29,5,2,58.6,8,2026-04-28,1748.79,171.45,No,Active,South,3,102.87,0,-148,Low
+SUB0137,EMP1159,Finance,Norton,Security,Enterprise,5.68,10,2,28.5,41,2026-11-24,681.6,56.8,Yes,Active,West,8,45.44,1,62,High
+SUB0138,EMP1133,Engineering,Okta,Security,Monthly,13.15,75,61,82.5,18,2026-06-26,11835.0,986.25,Yes,Active,East,14,184.1,0,-89,Low
+SUB0139,EMP1024,HR,Canva,Design,Enterprise,12.22,150,85,56.8,11,2026-09-22,21996.0,1833.0,Yes,Active,West,65,794.3,0,-1,Medium
+SUB0140,EMP1197,Product,Coursera,Learning,Enterprise,53.22,150,113,75.7,41,2026-06-08,95796.0,7983.0,Yes,Active,West,37,1969.14,0,-107,Low
+SUB0141,EMP1096,Design,BambooHR,HR & Finance,Annual,18.42,30,23,78.9,1,2026-05-28,5636.52,552.6,Yes,Active,South,7,128.94,0,-118,Low
+SUB0142,EMP1151,Design,Box,Storage,Enterprise,19.54,5,4,87.0,11,2026-05-07,1172.4,97.7,Yes,Active,South,1,19.54,0,-139,Low
+SUB0143,EMP1169,Finance,Asana,Project Management,Annual,14.59,15,11,74.3,13,2026-11-15,2232.27,218.85,No,Active,East,4,58.36,0,53,Low
+SUB0144,EMP1086,HR,Asana,Project Management,Enterprise,14.24,150,96,64.3,19,2026-09-25,25632.0,2136.0,Yes,Active,East,54,768.96,0,2,Medium
+SUB0145,EMP1083,HR,HubSpot,CRM & Sales,Annual,91.05,10,3,34.9,52,2026-11-14,9287.1,910.5,Yes,Active,South,7,637.35,1,52,High
+SUB0146,EMP1163,Engineering,Microsoft Teams,Communication,Annual,12.5,30,20,68.7,39,2026-01-04,3825.0,375.0,Yes,Active,South,10,125.0,0,-262,Low
+SUB0147,EMP1007,Sales,Expensify,HR & Finance,Enterprise,9.82,200,148,74.4,11,2026-09-02,23568.0,1964.0,Yes,Active,West,52,510.64,0,-21,Low
+SUB0148,EMP1119,HR,Datadog,Data & Analytics,Annual,30.84,5,1,17.6,84,2026-05-11,1572.84,154.2,Yes,Active,West,4,123.36,1,-135,Medium
+SUB0149,EMP1034,Support,Dropbox,Storage,Enterprise,16.04,30,2,8.9,35,2026-07-13,5774.4,481.2,No,Inactive,South,28,449.12,0,-72,Medium
+SUB0150,EMP1049,Engineering,AWS,Cloud Infra,Annual,470.78,1,1,8.6,65,2026-06-25,7358.08,721.38,Yes,Inactive,North,0,0.0,0,-90,Medium
+SUB0151,EMP1079,HR,Workday,HR & Finance,Enterprise,56.22,50,38,77.7,21,2026-02-20,33732.0,2811.0,Yes,Active,South,12,674.64,0,-215,Low
+SUB0152,EMP1192,Design,OneDrive,Storage,Enterprise,7.57,50,5,11.6,44,2026-03-27,4542.0,378.5,No,Active,North,45,340.65,1,-180,Medium
+SUB0153,EMP1088,HR,Okta,Security,Enterprise,11.53,150,83,55.8,35,2026-11-12,20754.0,1729.5,No,Active,North,67,772.51,0,50,Medium
+SUB0154,EMP1191,Marketing,QuickBooks,HR & Finance,Annual,38.73,5,4,96.4,21,2026-07-30,1975.23,193.65,Yes,Active,West,1,38.73,0,-55,Low
+SUB0155,EMP1101,Product,OneDrive,Storage,Monthly,7.61,100,98,98.7,1,2026-04-16,9132.0,761.0,Yes,Active,West,2,15.22,0,-160,Low
+SUB0156,EMP1198,Support,Box,Storage,Monthly,20.15,30,28,94.7,7,2026-11-14,7254.0,604.5,Yes,Active,West,2,40.3,0,52,Medium
+SUB0157,EMP1010,Design,Microsoft Azure,Cloud Infra,Monthly,408.07,1,1,72.4,11,2026-03-28,5302.44,441.87,Yes,Active,West,0,0.0,0,-179,Low
+SUB0158,EMP1152,HR,Adobe Creative Cloud,Design,Annual,62.13,150,115,77.0,60,2026-11-06,95058.9,9319.5,No,Active,East,35,2174.55,0,44,Medium
+SUB0159,EMP1170,Design,OneDrive,Storage,Annual,7.12,10,6,65.8,10,2026-07-20,726.24,71.2,No,Active,South,4,28.48,0,-65,Low
+SUB0160,EMP1140,Design,Figma,Design,Monthly,13.77,50,47,94.5,61,2026-08-27,8262.0,688.5,Yes,Active,North,3,41.31,0,-27,Low
+SUB0161,EMP1105,HR,Canva,Design,Annual,13.39,10,2,26.6,90,2026-12-06,1365.78,133.9,Yes,Active,East,8,107.12,1,74,High
+SUB0162,EMP1038,Product,Jenkins,Engineering,Annual,0.0,10,9,98.0,34,2026-07-10,0.0,0.0,Yes,Active,North,1,0.0,0,-75,Low
+SUB0163,EMP1171,Marketing,Monday.com,Project Management,Annual,15.14,50,16,32.8,112,2026-06-04,7721.4,757.0,Yes,Active,South,34,514.76,1,-111,Medium
+SUB0164,EMP1121,Marketing,Tableau,Data & Analytics,Monthly,79.46,150,7,5.1,76,2026-08-05,143028.0,11919.0,No,Active,South,143,11362.78,1,-49,High
+SUB0165,EMP1088,Support,Jira,Project Management,Annual,10.07,150,105,70.6,30,2026-04-11,15407.1,1510.5,No,Active,West,45,453.15,0,-165,Low
+SUB0166,EMP1148,Design,Jenkins,Engineering,Monthly,0.0,20,3,19.8,43,2026-03-27,0.0,0.0,No,Active,West,17,0.0,1,-180,Medium
+SUB0167,EMP1001,HR,Google Workspace,Communication,Monthly,14.51,25,20,81.7,5,2026-05-23,4353.0,362.75,Yes,Active,West,5,72.55,0,-123,Low
+SUB0168,EMP1018,Engineering,Tableau,Data & Analytics,Monthly,75.53,50,36,72.8,25,2026-09-10,45318.0,3776.5,No,Active,West,14,1057.42,0,-13,Low
+SUB0169,EMP1122,Engineering,Expensify,HR & Finance,Annual,9.19,30,20,67.1,1,2026-11-23,2812.14,275.7,Yes,Active,East,10,91.9,0,61,Medium
+SUB0170,EMP1049,Support,GitHub,Engineering,Monthly,19.25,50,11,23.2,102,2026-03-27,11550.0,962.5,Yes,Active,West,39,750.75,1,-180,Medium
+SUB0171,EMP1007,HR,1Password,Security,Annual,9.18,150,126,84.5,21,2026-07-23,14045.4,1377.0,No,Active,West,24,220.32,0,-62,Low
+SUB0172,EMP1143,Finance,HubSpot,CRM & Sales,Annual,95.45,150,94,62.7,4,2026-07-15,146038.5,14317.5,Yes,Active,West,56,5345.2,0,-70,Low
+SUB0173,EMP1107,Engineering,Dropbox,Storage,Monthly,15.89,75,71,95.8,10,2026-02-25,14301.0,1191.75,No,Active,West,4,63.56,0,-210,Low
+SUB0174,EMP1141,Support,Jenkins,Engineering,Monthly,0.0,25,3,14.0,100,2026-11-12,0.0,0.0,Yes,Active,South,22,0.0,1,50,High
+SUB0175,EMP1150,Marketing,QuickBooks,HR & Finance,Monthly,32.27,50,8,17.6,114,2026-07-22,19362.0,1613.5,Yes,Active,North,42,1355.34,1,-63,Medium
+SUB0176,EMP1041,Engineering,Power BI,Data & Analytics,Enterprise,20.48,10,9,95.5,96,2026-11-07,2457.6,204.8,Yes,Active,North,1,20.48,0,45,Medium
+SUB0177,EMP1162,Marketing,Workday,HR & Finance,Annual,59.42,15,11,78.4,3,2026-03-19,9091.26,891.3,No,Active,West,4,237.68,0,-188,Low
+SUB0178,EMP1064,Engineering,Google Cloud,Cloud Infra,Monthly,333.84,1,1,38.5,81,2026-06-24,7607.88,633.99,Yes,Active,East,0,0.0,1,-91,Medium
+SUB0179,EMP1195,Product,Tableau,Data & Analytics,Annual,85.36,30,20,69.0,34,2026-09-01,26120.16,2560.8,Yes,Active,South,10,853.6,0,-22,Low
+SUB0180,EMP1190,Product,QuickBooks,HR & Finance,Monthly,32.57,20,6,32.2,83,2026-12-08,7816.8,651.4,No,Active,East,14,455.98,1,76,Medium
+SUB0181,EMP1177,Finance,Tableau,Data & Analytics,Annual,70.35,200,167,83.6,1,2026-10-12,143514.0,14070.0,Yes,Inactive,West,33,2321.55,0,19,Medium
+SUB0182,EMP1143,Sales,Adobe Creative Cloud,Design,Monthly,56.55,75,15,20.1,36,2026-10-13,50895.0,4241.25,Yes,Active,West,60,3393.0,1,20,High
+SUB0183,EMP1177,Engineering,Microsoft Teams,Communication,Monthly,11.98,20,13,65.1,4,2026-03-05,2875.2,239.6,Yes,Active,East,7,83.86,0,-202,Low
+SUB0184,EMP1132,Sales,HubSpot,CRM & Sales,Monthly,87.98,20,16,83.8,14,2026-06-25,21115.2,1759.6,Yes,Active,North,4,351.92,0,-90,Low
+SUB0185,EMP1012,HR,Microsoft Teams,Communication,Monthly,13.72,10,1,19.7,82,2026-09-06,1646.4,137.2,Yes,Active,South,9,123.48,1,-17,Medium
+SUB0186,EMP1148,Marketing,Microsoft Teams,Communication,Monthly,11.45,10,6,63.7,0,2026-05-16,1374.0,114.5,Yes,Active,South,4,45.8,0,-130,Low
+SUB0187,EMP1156,Design,Monday.com,Project Management,Enterprise,17.86,50,4,9.5,51,2026-08-26,10716.0,893.0,No,Active,North,46,821.56,1,-28,Medium
+SUB0188,EMP1009,HR,Norton,Security,Annual,4.62,25,15,60.9,21,2026-12-11,1178.1,115.5,No,Inactive,West,10,46.2,0,79,Low
+SUB0189,EMP1172,Product,Adobe Creative Cloud,Design,Enterprise,63.88,75,62,83.0,45,2026-08-21,57492.0,4791.0,Yes,Cancelled,South,13,830.44,0,-33,Low
+SUB0190,EMP1016,Sales,Udemy Business,Learning,Monthly,32.74,5,2,57.1,27,2026-08-29,1964.4,163.7,No,Active,South,3,98.22,0,-25,Low
+SUB0191,EMP1185,Sales,GitHub,Engineering,Enterprise,24.11,25,18,75.3,70,2026-12-10,7233.0,602.75,No,Active,North,7,168.77,0,78,Low
+SUB0192,EMP1152,Support,GitHub,Engineering,Monthly,19.01,30,20,66.7,1,2026-12-20,6843.6,570.3,Yes,Active,West,10,190.1,0,88,Medium
+SUB0193,EMP1163,Sales,DigitalOcean,Cloud Infra,Enterprise,91.69,1,1,13.9,116,2026-06-24,664.44,55.37,No,Active,South,0,0.0,1,-91,Medium
+SUB0194,EMP1167,Finance,Trello,Project Management,Monthly,6.78,75,16,22.0,76,2026-08-14,6102.0,508.5,Yes,Inactive,North,59,400.02,0,-40,Medium
+SUB0195,EMP1031,Engineering,Norton,Security,Annual,5.04,100,74,74.0,18,2026-12-11,5140.8,504.0,Yes,Active,East,26,131.04,0,79,Medium
+SUB0196,EMP1140,Support,1Password,Security,Annual,8.82,5,3,67.6,39,2026-11-05,449.82,44.1,No,Active,East,2,17.64,0,43,Low
+SUB0197,EMP1091,Product,Jira,Project Management,Monthly,9.92,75,59,79.5,1,2026-04-27,8928.0,744.0,No,Active,North,16,158.72,0,-149,Low
+SUB0198,EMP1021,Design,Datadog,Data & Analytics,Monthly,28.61,10,2,29.0,116,2026-06-28,3433.2,286.1,Yes,Active,North,8,228.88,1,-87,Medium
+SUB0199,EMP1110,Product,Workday,HR & Finance,Annual,57.27,5,3,68.1,23,2026-11-15,2920.77,286.35,Yes,Active,West,2,114.54,0,53,Medium
+SUB0200,EMP1009,Support,AWS,Cloud Infra,Monthly,486.73,1,1,13.6,38,2026-05-27,11609.76,967.48,No,Active,South,0,0.0,1,-119,Medium
+SUB0201,EMP1011,Finance,OneDrive,Storage,Annual,6.95,50,42,85.3,15,2026-07-11,3544.5,347.5,No,Active,West,8,55.6,0,-74,Low
+SUB0202,EMP1131,Support,QuickBooks,HR & Finance,Annual,34.36,100,71,71.2,3,2026-04-22,35047.2,3436.0,No,Active,East,29,996.44,0,-154,Low
+SUB0203,EMP1173,HR,GitLab,Engineering,Annual,30.4,20,18,94.0,9,2026-05-31,6201.6,608.0,Yes,Cancelled,North,2,60.8,0,-115,Low
+SUB0204,EMP1131,Design,Figma,Design,Annual,16.78,100,72,72.7,14,2026-09-22,17115.6,1678.0,Yes,Active,South,28,469.84,0,-1,Low
+SUB0205,EMP1075,Support,QuickBooks,HR & Finance,Monthly,33.86,75,67,90.4,34,2026-07-01,30474.0,2539.5,Yes,Inactive,East,8,270.88,0,-84,Low
+SUB0206,EMP1062,Design,Microsoft Teams,Communication,Annual,12.88,30,10,33.9,63,2026-02-14,3941.28,386.4,No,Active,East,20,257.6,1,-221,Medium
+SUB0207,EMP1142,Design,Google Cloud,Cloud Infra,Monthly,346.69,1,1,88.7,3,2026-08-21,3948.84,329.07,Yes,Active,South,0,0.0,0,-33,Low
+SUB0208,EMP1093,Finance,Docker Hub,Engineering,Annual,8.56,200,193,96.8,16,2026-12-24,17462.4,1712.0,Yes,Active,East,7,59.92,0,92,Low
+SUB0209,EMP1164,Finance,Figma,Design,Enterprise,17.03,30,20,68.1,6,2026-06-06,6130.8,510.9,No,Active,North,10,170.3,0,-109,Low
+SUB0210,EMP1056,HR,OneDrive,Storage,Annual,6.52,25,19,76.3,1,2026-09-23,1662.6,163.0,Yes,Active,North,6,39.12,0,0,Medium
+SUB0211,EMP1105,Support,Zoho CRM,CRM & Sales,Monthly,42.02,100,26,26.4,97,2026-08-28,50424.0,4202.0,No,Cancelled,West,74,3109.48,0,-26,High
+SUB0212,EMP1043,HR,Okta,Security,Monthly,11.55,50,18,36.7,54,2026-10-05,6930.0,577.5,Yes,Active,West,32,369.6,1,12,High
+SUB0213,EMP1126,Design,Dropbox,Storage,Monthly,18.68,20,1,7.2,42,2026-07-14,4483.2,373.6,Yes,Active,North,19,354.92,1,-71,Medium
+SUB0214,EMP1164,Finance,Asana,Project Management,Monthly,15.12,75,45,60.6,9,2026-10-30,13608.0,1134.0,No,Active,South,30,453.6,0,37,Low
+SUB0215,EMP1188,HR,Power BI,Data & Analytics,Enterprise,18.96,10,3,30.4,60,2026-04-23,2275.2,189.6,No,Active,East,7,132.72,1,-153,Medium
+SUB0216,EMP1027,Product,Coursera,Learning,Monthly,45.19,10,7,73.4,23,2026-07-18,5422.8,451.9,No,Active,West,3,135.57,0,-67,Low
+SUB0217,EMP1021,Product,Okta,Security,Annual,12.64,100,79,79.1,5,2026-11-06,12892.8,1264.0,Yes,Active,West,21,265.44,0,44,Medium
+SUB0218,EMP1058,Product,Okta,Security,Enterprise,12.18,10,3,35.2,97,2026-04-17,1461.6,121.8,No,Active,East,7,85.26,1,-159,Medium
+SUB0219,EMP1119,Finance,QuickBooks,HR & Finance,Annual,33.76,15,9,63.9,3,2026-05-01,5165.28,506.4,No,Active,East,6,202.56,0,-145,Low
+SUB0220,EMP1130,HR,Adobe Creative Cloud,Design,Monthly,68.19,30,4,13.9,80,2026-10-02,24548.4,2045.7,Yes,Active,North,26,1772.94,1,9,High
+SUB0221,EMP1011,Product,DigitalOcean,Cloud Infra,Enterprise,94.33,1,1,90.1,10,2026-02-04,1332.96,111.08,Yes,Active,North,0,0.0,0,-231,Low
+SUB0222,EMP1041,Marketing,1Password,Security,Annual,7.74,75,66,88.3,7,2026-08-23,5921.1,580.5,Yes,Active,South,9,69.66,0,-31,Low
+SUB0223,EMP1128,Design,Salesforce,CRM & Sales,Annual,183.86,30,20,68.9,47,2026-04-12,56261.16,5515.8,No,Active,East,10,1838.6,0,-164,Medium
+SUB0224,EMP1011,Finance,Coursera,Learning,Monthly,45.96,75,62,83.8,11,2026-08-13,41364.0,3447.0,Yes,Active,North,13,597.48,0,-41,Low
+SUB0225,EMP1127,Finance,DigitalOcean,Cloud Infra,Annual,108.87,1,1,73.4,20,2026-03-02,1667.8,163.51,No,Active,South,0,0.0,0,-205,Low
+SUB0226,EMP1008,Marketing,Snowflake,Data & Analytics,Monthly,243.26,100,6,6.0,48,2026-05-19,291912.0,24326.0,No,Active,East,94,22866.44,1,-127,High
+SUB0227,EMP1130,Marketing,Slack,Communication,Enterprise,10.04,10,3,31.6,111,2026-08-26,1204.8,100.4,Yes,Active,East,7,70.28,1,-28,Medium
+SUB0228,EMP1081,Engineering,Zoom,Communication,Enterprise,14.74,150,13,9.0,94,2026-06-03,26532.0,2211.0,No,Active,East,137,2019.38,1,-112,High
+SUB0229,EMP1015,Design,Monday.com,Project Management,Annual,17.35,100,80,80.4,32,2026-11-04,17697.0,1735.0,Yes,Inactive,North,20,347.0,0,42,Medium
+SUB0230,EMP1190,Finance,Slack,Communication,Monthly,8.26,15,8,58.1,38,2026-03-24,1486.8,123.9,No,Active,West,7,57.82,0,-183,Low
+SUB0231,EMP1144,Design,Expensify,HR & Finance,Monthly,9.52,150,102,68.4,0,2026-04-21,17136.0,1428.0,Yes,Active,East,48,456.96,0,-155,Low
+SUB0232,EMP1141,Engineering,Google Cloud,Cloud Infra,Annual,340.06,1,1,36.5,30,2026-03-03,6282.79,615.96,Yes,Active,East,0,0.0,1,-204,Medium
+SUB0233,EMP1149,Sales,Expensify,HR & Finance,Enterprise,10.99,75,14,19.4,73,2026-01-07,9891.0,824.25,Yes,Cancelled,North,61,670.39,0,-259,Medium
+SUB0234,EMP1123,Design,Power BI,Data & Analytics,Enterprise,21.5,15,13,91.3,36,2026-12-25,3870.0,322.5,Yes,Active,North,2,43.0,0,93,Low
+SUB0235,EMP1051,Engineering,Norton,Security,Enterprise,5.37,15,9,60.0,15,2026-02-05,966.6,80.55,Yes,Cancelled,South,6,32.22,0,-230,Low
+SUB0236,EMP1085,Finance,AWS,Cloud Infra,Monthly,487.15,1,1,12.9,35,2026-11-17,8173.68,681.14,No,Active,North,0,0.0,1,55,Medium
+SUB0237,EMP1148,Sales,Zoho CRM,CRM & Sales,Enterprise,43.71,50,45,91.9,11,2026-04-08,26226.0,2185.5,No,Active,West,5,218.55,0,-168,Low
+SUB0238,EMP1064,HR,Udemy Business,Learning,Monthly,39.04,20,4,22.1,77,2026-01-12,9369.6,780.8,No,Cancelled,West,16,624.64,0,-254,Medium
+SUB0239,EMP1020,Design,BambooHR,HR & Finance,Monthly,18.16,50,34,68.9,29,2026-08-08,10896.0,908.0,No,Active,East,16,290.56,0,-46,Low
+SUB0240,EMP1193,Support,Coursera,Learning,Annual,52.39,20,16,83.1,2,2026-03-27,10687.56,1047.8,No,Active,East,4,209.56,0,-180,Low
+SUB0241,EMP1026,Engineering,Norton,Security,Monthly,5.28,200,154,77.3,1,2026-04-03,12672.0,1056.0,Yes,Active,North,46,242.88,0,-173,Low
+SUB0242,EMP1140,HR,Salesforce,CRM & Sales,Monthly,168.38,150,104,69.6,4,2026-08-11,303084.0,25257.0,Yes,Active,East,46,7745.48,0,-43,Low
+SUB0243,EMP1061,Marketing,Asana,Project Management,Annual,12.26,5,1,12.7,39,2026-05-04,625.26,61.3,No,Active,South,4,49.04,1,-142,Medium
+SUB0244,EMP1140,Sales,Google Cloud,Cloud Infra,Annual,294.97,1,1,72.5,2,2026-05-07,4289.2,420.51,Yes,Active,South,0,0.0,0,-139,Low
+SUB0245,EMP1108,Support,Slack,Communication,Annual,8.24,15,14,95.9,9,2026-09-24,1260.72,123.6,No,Active,West,1,8.24,0,1,Low
+SUB0246,EMP1176,Design,Udemy Business,Learning,Annual,39.79,5,4,97.0,0,2026-08-21,2029.29,198.95,Yes,Active,East,1,39.79,0,-33,Low
+SUB0247,EMP1112,HR,Zoom,Communication,Annual,17.59,10,2,28.3,89,2026-02-03,1794.18,175.9,Yes,Active,East,8,140.72,1,-232,Medium
+SUB0248,EMP1141,Design,Canva,Design,Monthly,13.03,150,132,88.0,20,2026-08-24,23454.0,1954.5,No,Active,North,18,234.54,0,-30,Low
+SUB0249,EMP1093,Finance,HubSpot,CRM & Sales,Annual,83.92,30,3,10.4,87,2026-09-28,25679.52,2517.6,Yes,Active,South,27,2265.84,1,5,High
+SUB0250,EMP1126,Sales,Workday,HR & Finance,Monthly,55.67,5,3,78.4,1,2026-05-26,3340.2,278.35,No,Active,South,2,111.34,0,-120,Low
+SUB0251,EMP1029,Finance,AWS,Cloud Infra,Monthly,448.58,1,1,58.0,10,2026-01-29,9569.64,797.47,Yes,Active,South,0,0.0,0,-237,Low
+SUB0252,EMP1056,Engineering,Jira,Project Management,Annual,10.97,10,7,74.8,28,2026-02-06,1118.94,109.7,No,Inactive,South,3,32.91,0,-229,Low
+SUB0253,EMP1018,Finance,GitHub,Engineering,Monthly,19.77,5,3,77.5,20,2026-01-17,1186.2,98.85,No,Active,West,2,39.54,0,-249,Low
+SUB0254,EMP1161,Design,Notion,Project Management,Monthly,9.18,10,7,70.0,10,2026-04-24,1101.6,91.8,Yes,Active,East,3,27.54,0,-152,Low
+SUB0255,EMP1074,Finance,Power BI,Data & Analytics,Enterprise,21.44,75,56,75.0,3,2026-06-27,19296.0,1608.0,Yes,Active,West,19,407.36,0,-88,Low
+SUB0256,EMP1029,Sales,BambooHR,HR & Finance,Monthly,17.95,150,9,6.1,44,2026-01-09,32310.0,2692.5,No,Active,North,141,2530.95,1,-257,Medium
+SUB0257,EMP1076,Product,Workday,HR & Finance,Monthly,53.82,150,57,38.5,109,2026-08-09,96876.0,8073.0,No,Active,East,93,5005.26,1,-45,High
+SUB0258,EMP1052,Sales,Microsoft Teams,Communication,Annual,13.67,20,7,39.0,118,2026-06-24,2788.68,273.4,Yes,Active,South,13,177.71,1,-91,Medium
+SUB0259,EMP1138,Engineering,Norton,Security,Enterprise,5.38,15,13,91.4,3,2026-07-05,968.4,80.7,Yes,Active,East,2,10.76,0,-80,Low
+SUB0260,EMP1098,Engineering,Norton,Security,Annual,5.74,15,3,25.4,43,2026-10-26,878.22,86.1,Yes,Active,South,12,68.88,1,33,High
+SUB0261,EMP1117,Design,Expensify,HR & Finance,Enterprise,10.14,75,67,89.9,26,2026-02-24,9126.0,760.5,No,Active,East,8,81.12,0,-211,Low
+SUB0262,EMP1019,Support,Google Cloud,Cloud Infra,Monthly,330.67,1,1,86.8,2,2026-10-16,7162.08,596.84,Yes,Active,West,0,0.0,0,23,Medium
+SUB0263,EMP1101,Design,Asana,Project Management,Annual,13.7,150,92,61.5,79,2026-06-26,20961.0,2055.0,No,Active,East,58,794.6,0,-89,Medium
+SUB0264,EMP1091,Product,Datadog,Data & Analytics,Annual,35.02,75,61,81.7,8,2026-09-22,26790.3,2626.5,No,Active,East,14,490.28,0,-1,Low
+SUB0265,EMP1071,Marketing,Trello,Project Management,Enterprise,6.89,20,15,76.0,1,2026-01-02,1653.6,137.8,Yes,Active,East,5,34.45,0,-264,Low
+SUB0266,EMP1170,Design,Datadog,Data & Analytics,Monthly,35.43,30,1,6.1,49,2026-09-25,12754.8,1062.9,No,Active,East,29,1027.47,1,2,Medium
+SUB0267,EMP1046,Engineering,Power BI,Data & Analytics,Enterprise,19.79,150,23,15.5,102,2026-04-12,35622.0,2968.5,Yes,Active,West,127,2513.33,1,-164,High
+SUB0268,EMP1036,Product,Asana,Project Management,Enterprise,13.13,10,9,91.5,0,2026-09-27,1575.6,131.3,No,Active,East,1,13.13,0,4,Low
+SUB0269,EMP1173,Sales,GitLab,Engineering,Monthly,31.65,75,63,84.0,37,2026-08-12,28485.0,2373.75,Yes,Active,West,12,379.8,0,-42,Low
+SUB0270,EMP1082,Engineering,Box,Storage,Monthly,17.77,20,11,57.9,2,2026-10-23,4264.8,355.4,No,Inactive,West,9,159.93,0,30,Low
+SUB0271,EMP1110,Engineering,Datadog,Data & Analytics,Annual,34.06,10,2,22.5,93,2026-01-19,3474.12,340.6,Yes,Active,South,8,272.48,1,-247,Medium
+SUB0272,EMP1064,Product,OneDrive,Storage,Monthly,7.91,10,3,33.1,66,2026-11-27,949.2,79.1,Yes,Active,West,7,55.37,1,65,High
+SUB0273,EMP1073,Engineering,BambooHR,HR & Finance,Annual,18.07,25,3,12.5,98,2026-03-10,4607.85,451.75,Yes,Active,South,22,397.54,1,-197,Medium
+SUB0274,EMP1029,Marketing,Figma,Design,Annual,15.47,75,62,83.0,12,2026-03-27,11834.55,1160.25,Yes,Active,East,13,201.11,0,-180,Low
+SUB0275,EMP1048,Design,BambooHR,HR & Finance,Annual,18.44,200,133,66.9,6,2026-02-18,37617.6,3688.0,Yes,Cancelled,North,67,1235.48,0,-217,Low
+SUB0276,EMP1171,HR,Microsoft Teams,Communication,Monthly,12.11,5,2,57.1,24,2026-01-23,726.6,60.55,No,Inactive,South,3,36.33,0,-243,Low
+SUB0277,EMP1082,Engineering,GitHub,Engineering,Annual,21.87,200,121,60.7,40,2026-07-28,44614.8,4374.0,No,Active,West,79,1727.73,0,-57,Low
+SUB0278,EMP1137,HR,Asana,Project Management,Enterprise,14.46,75,44,58.9,13,2026-05-22,13014.0,1084.5,Yes,Active,North,31,448.26,0,-124,Low
+SUB0279,EMP1020,Sales,QuickBooks,HR & Finance,Monthly,39.95,25,21,84.3,28,2026-12-14,11985.0,998.75,Yes,Active,South,4,159.8,0,82,Medium
+SUB0280,EMP1145,Finance,Dropbox,Storage,Annual,16.41,15,8,57.1,62,2026-07-02,2510.73,246.15,Yes,Active,East,7,114.87,0,-83,Medium
+SUB0281,EMP1072,Design,Datadog,Data & Analytics,Annual,33.85,15,8,57.3,10,2026-10-28,5179.05,507.75,No,Active,West,7,236.95,0,35,Low
+SUB0282,EMP1017,Design,Zoho CRM,CRM & Sales,Enterprise,48.13,30,19,64.5,18,2026-04-18,17326.8,1443.9,Yes,Active,South,11,529.43,0,-158,Low
+SUB0283,EMP1056,HR,Tableau,Data & Analytics,Annual,80.87,30,21,72.4,4,2026-11-21,24746.22,2426.1,Yes,Active,South,9,727.83,0,59,Medium
+SUB0284,EMP1141,Finance,Jira,Project Management,Enterprise,11.64,30,20,66.8,0,2026-05-19,4190.4,349.2,Yes,Cancelled,West,10,116.4,0,-127,Low
+SUB0285,EMP1121,Finance,Jenkins,Engineering,Annual,0.0,100,69,69.5,47,2026-04-08,0.0,0.0,No,Active,North,31,0.0,0,-168,Low
+SUB0286,EMP1169,Finance,Canva,Design,Annual,12.56,30,22,75.0,4,2026-02-18,3843.36,376.8,No,Active,West,8,100.48,0,-217,Low
+SUB0287,EMP1015,Design,AWS,Cloud Infra,Annual,406.97,1,1,14.3,99,2026-07-09,3901.91,382.54,Yes,Active,West,0,0.0,1,-76,Medium
+SUB0288,EMP1199,Product,Docker Hub,Engineering,Annual,10.01,25,24,97.9,0,2026-11-24,2552.55,250.25,No,Active,West,1,10.01,0,62,Low
+SUB0289,EMP1003,Product,QuickBooks,HR & Finance,Monthly,33.5,200,115,57.9,5,2026-06-26,80400.0,6700.0,No,Active,South,85,2847.5,0,-89,Medium
+SUB0290,EMP1089,Support,Zoho CRM,CRM & Sales,Enterprise,47.82,100,23,23.6,88,2026-07-24,57384.0,4782.0,No,Active,South,77,3682.14,1,-61,High
+SUB0291,EMP1094,Engineering,Datadog,Data & Analytics,Monthly,30.34,150,138,92.3,6,2026-12-25,54612.0,4551.0,Yes,Active,East,12,364.08,0,93,Low
+SUB0292,EMP1025,Support,Expensify,HR & Finance,Annual,9.83,200,193,96.7,25,2026-07-16,20053.2,1966.0,Yes,Active,West,7,68.81,0,-69,Low
+SUB0293,EMP1045,Design,AWS,Cloud Infra,Monthly,410.01,1,1,65.1,7,2026-10-05,5527.56,460.63,Yes,Active,North,0,0.0,0,12,Medium
+SUB0294,EMP1007,Product,Monday.com,Project Management,Monthly,16.59,30,26,88.5,3,2026-06-17,5972.4,497.7,Yes,Active,North,4,66.36,0,-98,Low
+SUB0295,EMP1067,Sales,BambooHR,HR & Finance,Monthly,20.68,200,122,61.0,14,2026-05-24,49632.0,4136.0,Yes,Active,West,78,1613.04,0,-122,Low
+SUB0296,EMP1153,Marketing,Slack,Communication,Enterprise,9.12,75,73,98.2,6,2026-06-09,8208.0,684.0,Yes,Cancelled,West,2,18.24,0,-106,Low
+SUB0297,EMP1095,Sales,AWS,Cloud Infra,Monthly,483.56,1,1,70.6,61,2026-12-19,6341.28,528.44,Yes,Active,West,0,0.0,0,87,Medium
+SUB0298,EMP1035,Product,Adobe Creative Cloud,Design,Monthly,68.39,5,4,89.4,28,2026-11-09,4103.4,341.95,Yes,Active,West,1,68.39,0,47,Medium
+SUB0299,EMP1154,Product,Asana,Project Management,Annual,14.87,150,85,57.0,3,2026-07-07,22751.1,2230.5,No,Active,West,65,966.55,0,-78,Medium
+SUB0300,EMP1088,Design,GitLab,Engineering,Monthly,32.64,15,8,55.0,3,2026-12-28,5875.2,489.6,No,Active,North,7,228.48,0,96,Low
+SUB0301,EMP1172,HR,Jira,Project Management,Annual,9.54,5,2,59.0,1,2026-06-12,486.54,47.7,Yes,Active,East,3,28.62,0,-103,Low
+SUB0302,EMP1040,Sales,HubSpot,CRM & Sales,Monthly,98.95,20,14,73.3,46,2026-11-17,23748.0,1979.0,No,Inactive,West,6,593.7,0,55,Medium
+SUB0303,EMP1148,Sales,Trello,Project Management,Monthly,6.42,150,92,61.5,5,2026-06-07,11556.0,963.0,Yes,Active,West,58,372.36,0,-108,Low
+SUB0304,EMP1083,Finance,Microsoft Azure,Cloud Infra,Annual,382.86,1,1,61.3,37,2026-05-27,7246.59,710.45,No,Active,North,0,0.0,0,-119,Low
+SUB0305,EMP1121,Product,Zoom,Communication,Annual,15.57,20,2,13.9,83,2026-01-12,3176.28,311.4,Yes,Active,North,18,280.26,1,-254,Medium
+SUB0306,EMP1003,Product,Canva,Design,Enterprise,14.38,25,14,59.2,0,2026-09-23,4314.0,359.5,No,Active,East,11,158.18,0,0,Low
+SUB0307,EMP1187,Marketing,Workday,HR & Finance,Monthly,53.49,100,57,57.0,53,2026-05-24,64188.0,5349.0,Yes,Active,South,43,2300.07,0,-122,Medium
+SUB0308,EMP1075,Support,OneDrive,Storage,Annual,6.65,25,15,63.8,0,2026-06-09,1695.75,166.25,No,Cancelled,South,10,66.5,0,-106,Low
+SUB0309,EMP1125,Marketing,Microsoft Azure,Cloud Infra,Monthly,382.15,1,1,92.3,7,2026-09-18,4376.64,364.72,No,Active,North,0,0.0,0,-5,Low
+SUB0310,EMP1169,HR,Tableau,Data & Analytics,Monthly,81.8,30,19,64.7,15,2026-02-24,29448.0,2454.0,Yes,Active,West,11,899.8,0,-211,Low
+SUB0311,EMP1110,Marketing,Coursera,Learning,Annual,47.39,200,46,23.1,86,2026-06-25,96675.6,9478.0,Yes,Active,South,154,7298.06,1,-90,High
+SUB0312,EMP1014,Finance,QuickBooks,HR & Finance,Annual,37.7,25,22,89.4,3,2026-12-21,9613.5,942.5,Yes,Active,West,3,113.1,0,89,Medium
+SUB0313,EMP1140,Engineering,Adobe Creative Cloud,Design,Annual,55.87,200,120,60.4,38,2026-05-06,113974.8,11174.0,Yes,Inactive,West,80,4469.6,0,-140,Low
+SUB0314,EMP1194,Marketing,Canva,Design,Monthly,13.97,20,18,92.7,25,2026-07-25,3352.8,279.4,No,Active,North,2,27.94,0,-60,Low
+SUB0315,EMP1013,Product,BambooHR,HR & Finance,Annual,17.93,20,17,87.3,0,2026-11-03,3657.72,358.6,Yes,Active,East,3,53.79,0,41,Medium
+SUB0316,EMP1026,Finance,Workday,HR & Finance,Enterprise,60.74,50,14,29.7,79,2026-12-19,36444.0,3037.0,Yes,Active,West,36,2186.64,1,87,High
+SUB0317,EMP1195,HR,GitHub,Engineering,Annual,21.8,75,24,33.0,65,2026-02-18,16677.0,1635.0,No,Active,West,51,1111.8,1,-217,Medium
+SUB0318,EMP1082,Sales,Expensify,HR & Finance,Annual,10.98,10,8,84.6,5,2026-08-17,1119.96,109.8,Yes,Active,South,2,21.96,0,-37,Low
+SUB0319,EMP1096,Product,Tableau,Data & Analytics,Annual,77.79,20,11,57.3,6,2026-04-22,15869.16,1555.8,Yes,Active,East,9,700.11,0,-154,Low
+SUB0320,EMP1166,Engineering,Canva,Design,Annual,12.62,25,8,32.4,68,2026-09-08,3218.1,315.5,Yes,Inactive,West,17,214.54,0,-15,Medium
+SUB0321,EMP1081,Engineering,Figma,Design,Enterprise,14.25,20,16,82.8,10,2026-10-02,3420.0,285.0,Yes,Active,North,4,57.0,0,9,Medium
+SUB0322,EMP1196,Design,Udemy Business,Learning,Enterprise,37.07,100,58,58.0,3,2026-12-21,44484.0,3707.0,Yes,Active,East,42,1556.94,0,89,High
+SUB0323,EMP1123,Product,HubSpot,CRM & Sales,Monthly,88.95,20,14,70.2,6,2026-03-16,21348.0,1779.0,Yes,Active,South,6,533.7,0,-191,Low
+SUB0324,EMP1083,Finance,DigitalOcean,Cloud Infra,Annual,87.33,1,1,81.6,60,2026-04-19,546.41,53.57,Yes,Active,South,0,0.0,0,-157,Low
+SUB0325,EMP1186,Engineering,Trello,Project Management,Monthly,6.85,10,1,5.5,52,2026-09-04,822.0,68.5,Yes,Active,East,9,61.65,1,-19,Medium
+SUB0326,EMP1122,Engineering,BambooHR,HR & Finance,Monthly,16.68,10,9,96.7,3,2026-12-11,2001.6,166.8,No,Active,East,1,16.68,0,79,Low
+SUB0327,EMP1128,Sales,Monday.com,Project Management,Annual,16.03,20,16,84.9,0,2026-08-01,3270.12,320.6,Yes,Active,East,4,64.12,0,-53,Low
+SUB0328,EMP1162,Support,GitLab,Engineering,Monthly,30.98,100,63,63.3,75,2026-02-07,37176.0,3098.0,Yes,Active,South,37,1146.26,0,-228,Medium
+SUB0329,EMP1120,Marketing,DigitalOcean,Cloud Infra,Enterprise,91.64,1,1,74.1,25,2026-01-04,1266.36,105.53,Yes,Active,East,0,0.0,0,-262,Low
+SUB0330,EMP1109,Finance,OneDrive,Storage,Annual,6.64,10,5,59.0,41,2026-09-27,677.28,66.4,Yes,Active,South,5,33.2,0,4,Medium
+SUB0331,EMP1137,Design,Adobe Creative Cloud,Design,Monthly,64.98,10,2,21.1,84,2026-09-03,7797.6,649.8,Yes,Active,East,8,519.84,1,-20,Medium
+SUB0332,EMP1090,Sales,Jenkins,Engineering,Enterprise,0.0,15,10,67.5,30,2026-05-26,0.0,0.0,Yes,Active,West,5,0.0,0,-120,Low
+SUB0333,EMP1036,Marketing,Jira,Project Management,Annual,9.99,15,11,73.8,32,2026-05-02,1528.47,149.85,No,Active,South,4,39.96,0,-144,Low
+SUB0334,EMP1106,Product,Power BI,Data & Analytics,Annual,22.37,75,54,73.1,20,2026-11-01,17113.05,1677.75,Yes,Active,North,21,469.77,0,39,Medium
+SUB0335,EMP1087,Engineering,Power BI,Data & Analytics,Enterprise,20.22,10,6,67.9,0,2026-04-20,2426.4,202.2,Yes,Cancelled,East,4,80.88,0,-156,Low
+SUB0336,EMP1091,Sales,1Password,Security,Enterprise,8.5,5,3,73.0,6,2026-02-28,510.0,42.5,Yes,Cancelled,West,2,17.0,0,-207,Low
+SUB0337,EMP1022,Finance,Snowflake,Data & Analytics,Annual,222.54,50,45,91.4,32,2026-01-03,113495.4,11127.0,No,Active,West,5,1112.7,0,-263,Low
+SUB0338,EMP1105,Sales,Snowflake,Data & Analytics,Monthly,214.93,150,134,89.7,49,2026-12-14,386874.0,32239.5,Yes,Active,South,16,3438.88,0,82,High
+SUB0339,EMP1086,Engineering,Expensify,HR & Finance,Monthly,9.18,5,4,94.8,35,2026-05-08,550.8,45.9,Yes,Active,East,1,9.18,0,-138,Low
+SUB0340,EMP1115,Sales,HubSpot,CRM & Sales,Enterprise,80.39,50,36,73.2,7,2026-06-17,48234.0,4019.5,Yes,Active,West,14,1125.46,0,-98,Low
+SUB0341,EMP1157,Support,GitHub,Engineering,Monthly,23.43,50,43,87.6,15,2026-10-16,14058.0,1171.5,Yes,Active,North,7,164.01,0,23,Medium
+SUB0342,EMP1010,Engineering,Monday.com,Project Management,Monthly,14.89,200,187,93.8,20,2026-08-01,35736.0,2978.0,Yes,Active,North,13,193.57,0,-53,Low
+SUB0343,EMP1032,Design,GitHub,Engineering,Monthly,20.66,50,7,14.4,97,2026-07-28,12396.0,1033.0,No,Active,North,43,888.38,1,-57,Medium
+SUB0344,EMP1092,HR,Trello,Project Management,Annual,6.53,15,10,73.1,4,2026-04-30,999.09,97.95,Yes,Active,South,5,32.65,0,-146,Low
+SUB0345,EMP1194,Design,Tableau,Data & Analytics,Annual,75.73,5,4,96.1,78,2026-07-06,3862.23,378.65,Yes,Active,East,1,75.73,0,-79,Low
+SUB0346,EMP1159,Support,1Password,Security,Monthly,8.41,5,4,89.2,38,2026-09-03,504.6,42.05,Yes,Active,South,1,8.41,0,-20,Low
+SUB0347,EMP1117,Sales,Datadog,Data & Analytics,Annual,33.73,100,85,85.7,12,2026-11-16,34404.6,3373.0,Yes,Active,West,15,505.95,0,54,Medium
+SUB0348,EMP1047,Finance,Datadog,Data & Analytics,Annual,31.65,15,10,72.8,0,2026-05-30,4842.45,474.75,Yes,Cancelled,North,5,158.25,0,-116,Low
+SUB0349,EMP1076,HR,Snowflake,Data & Analytics,Monthly,227.8,75,54,72.1,68,2026-01-25,205020.0,17085.0,Yes,Cancelled,West,21,4783.8,0,-241,Medium
+SUB0350,EMP1131,HR,BambooHR,HR & Finance,Enterprise,17.65,20,15,79.6,4,2026-05-08,4236.0,353.0,Yes,Cancelled,East,5,88.25,0,-138,Low
+SUB0351,EMP1158,Product,Trello,Project Management,Annual,6.79,20,3,17.2,64,2026-10-31,1385.16,135.8,No,Active,East,17,115.43,1,38,Medium
+SUB0352,EMP1057,Support,Google Workspace,Communication,Enterprise,15.28,75,43,57.9,17,2026-10-13,13752.0,1146.0,No,Active,East,32,488.96,0,20,Low
+SUB0353,EMP1130,Sales,DigitalOcean,Cloud Infra,Annual,103.13,1,1,82.3,4,2026-11-21,793.97,77.84,No,Active,West,0,0.0,0,59,Low
+SUB0354,EMP1007,HR,Asana,Project Management,Annual,14.27,150,120,80.5,3,2026-06-22,21833.1,2140.5,Yes,Active,North,30,428.1,0,-93,Low
+SUB0355,EMP1177,Product,Google Workspace,Communication,Annual,14.09,100,12,12.5,111,2026-07-05,14371.8,1409.0,Yes,Cancelled,South,88,1239.92,0,-80,Medium
+SUB0356,EMP1060,HR,Monday.com,Project Management,Annual,16.12,150,145,97.2,15,2026-07-14,24663.6,2418.0,Yes,Active,North,5,80.6,0,-71,Low
+SUB0357,EMP1022,HR,Okta,Security,Monthly,12.59,25,16,64.6,6,2026-08-30,3777.0,314.75,No,Active,South,9,113.31,0,-24,Low
+SUB0358,EMP1095,Product,HubSpot,CRM & Sales,Enterprise,88.3,75,22,29.5,68,2026-01-12,79470.0,6622.5,Yes,Inactive,South,53,4679.9,0,-254,High
+SUB0359,EMP1198,Engineering,Udemy Business,Learning,Monthly,39.45,25,23,92.8,11,2026-03-15,11835.0,986.25,Yes,Active,East,2,78.9,0,-192,Low
+SUB0360,EMP1090,Marketing,AWS,Cloud Infra,Enterprise,496.43,1,1,31.2,117,2026-10-29,9294.72,774.56,No,Active,East,0,0.0,1,36,Medium
+SUB0361,EMP1181,Sales,Google Cloud,Cloud Infra,Enterprise,333.69,1,1,21.3,58,2026-12-17,3828.24,319.02,No,Active,North,0,0.0,1,85,Medium
+SUB0362,EMP1185,Engineering,Monday.com,Project Management,Annual,17.46,25,1,5.5,86,2026-10-06,4452.3,436.5,Yes,Active,East,24,419.04,1,13,High
+SUB0363,EMP1170,Product,Zoho CRM,CRM & Sales,Annual,47.04,25,20,80.8,93,2026-10-04,11995.2,1176.0,Yes,Active,North,5,235.2,0,11,Medium
+SUB0364,EMP1112,Finance,Google Cloud,Cloud Infra,Annual,317.72,1,1,71.7,20,2026-06-21,4627.13,453.64,Yes,Active,North,0,0.0,0,-94,Low
+SUB0365,EMP1020,Support,Monday.com,Project Management,Annual,16.22,30,17,57.3,22,2026-09-05,4963.32,486.6,Yes,Active,North,13,210.86,0,-18,Low
+SUB0366,EMP1142,Design,Jira,Project Management,Annual,11.15,50,42,85.7,6,2026-02-27,5686.5,557.5,Yes,Active,West,8,89.2,0,-208,Low
+SUB0367,EMP1042,Sales,Snowflake,Data & Analytics,Monthly,244.06,30,25,84.4,3,2026-01-07,87861.6,7321.8,No,Active,West,5,1220.3,0,-259,Low
+SUB0368,EMP1065,HR,Box,Storage,Annual,18.61,75,72,97.3,13,2026-05-27,14236.65,1395.75,Yes,Active,North,3,55.83,0,-119,Low
+SUB0369,EMP1083,Finance,OneDrive,Storage,Enterprise,7.33,150,88,59.2,24,2026-01-25,13194.0,1099.5,Yes,Active,West,62,454.46,0,-241,Low
+SUB0370,EMP1162,Engineering,Microsoft Teams,Communication,Enterprise,14.02,200,70,35.2,47,2026-09-27,33648.0,2804.0,Yes,Active,West,130,1822.6,1,4,High
+SUB0371,EMP1052,Support,Power BI,Data & Analytics,Monthly,22.87,25,20,82.4,12,2026-11-06,6861.0,571.75,Yes,Active,North,5,114.35,0,44,Medium
+SUB0372,EMP1019,Design,Dropbox,Storage,Enterprise,16.19,5,4,94.2,16,2026-10-16,971.4,80.95,Yes,Active,North,1,16.19,0,23,Medium
+SUB0373,EMP1055,Product,Asana,Project Management,Monthly,12.64,75,8,10.9,117,2026-10-05,11376.0,948.0,No,Active,South,67,846.88,1,12,Medium
+SUB0374,EMP1035,Marketing,Jira,Project Management,Monthly,10.06,200,136,68.2,2,2026-04-04,24144.0,2012.0,Yes,Active,East,64,643.84,0,-172,Low
+SUB0375,EMP1010,Product,Coursera,Learning,Monthly,45.04,30,26,89.2,86,2026-04-10,16214.4,1351.2,Yes,Active,West,4,180.16,0,-166,Low
+SUB0376,EMP1064,Finance,Udemy Business,Learning,Annual,35.13,25,22,89.3,7,2026-01-02,8958.15,878.25,Yes,Active,West,3,105.39,0,-264,Low
+SUB0377,EMP1167,Support,Box,Storage,Annual,18.08,150,86,57.5,12,2026-09-22,27662.4,2712.0,Yes,Active,North,64,1157.12,0,-1,Medium
+SUB0378,EMP1081,HR,Notion,Project Management,Annual,11.1,150,118,78.7,91,2026-11-21,16983.0,1665.0,Yes,Active,West,32,355.2,0,59,Medium
+SUB0379,EMP1195,HR,BambooHR,HR & Finance,Annual,19.97,100,76,76.3,8,2026-11-10,20369.4,1997.0,Yes,Active,West,24,479.28,0,48,Medium
+SUB0380,EMP1094,Design,Jenkins,Engineering,Annual,0.0,75,28,38.3,45,2026-07-27,0.0,0.0,Yes,Active,West,47,0.0,1,-58,Medium
+SUB0381,EMP1130,Sales,Datadog,Data & Analytics,Annual,30.07,50,43,87.6,2,2026-11-08,15335.7,1503.5,Yes,Active,East,7,210.49,0,46,Medium
+SUB0382,EMP1137,Product,Workday,HR & Finance,Monthly,57.43,10,8,81.6,16,2026-05-16,6891.6,574.3,No,Active,East,2,114.86,0,-130,Low
+SUB0383,EMP1083,Marketing,Snowflake,Data & Analytics,Annual,229.53,200,174,87.1,8,2026-12-27,468241.2,45906.0,Yes,Active,West,26,5967.78,0,95,Low
+SUB0384,EMP1128,Sales,Jira,Project Management,Monthly,11.03,30,24,82.4,1,2026-05-18,3970.8,330.9,Yes,Active,North,6,66.18,0,-128,Low
+SUB0385,EMP1012,Support,Asana,Project Management,Annual,15.34,5,1,13.3,115,2026-08-11,782.34,76.7,No,Active,North,4,61.36,1,-43,Medium
+SUB0386,EMP1093,Marketing,Snowflake,Data & Analytics,Annual,231.84,5,4,85.9,28,2026-07-07,11823.84,1159.2,Yes,Active,North,1,231.84,0,-78,Low
+SUB0387,EMP1052,Product,Coursera,Learning,Annual,48.27,200,24,12.2,75,2026-08-13,98470.8,9654.0,No,Active,North,176,8495.52,1,-41,High
+SUB0388,EMP1031,Product,Datadog,Data & Analytics,Monthly,35.09,20,6,34.9,119,2026-10-18,8421.6,701.8,No,Active,West,14,491.26,1,25,Medium
+SUB0389,EMP1114,Finance,Google Workspace,Communication,Monthly,13.26,5,4,95.3,51,2026-09-11,795.6,66.3,Yes,Active,East,1,13.26,0,-12,Low
+SUB0390,EMP1101,Sales,Docker Hub,Engineering,Annual,9.35,200,128,64.3,38,2026-11-01,19074.0,1870.0,No,Active,South,72,673.2,0,39,Low
+SUB0391,EMP1155,Design,AWS,Cloud Infra,Monthly,431.37,1,1,89.1,0,2026-12-17,5267.64,438.97,Yes,Active,South,0,0.0,0,85,Medium
+SUB0392,EMP1042,Product,Trello,Project Management,Annual,6.67,30,20,69.0,58,2026-11-19,2041.02,200.1,No,Active,East,10,66.7,0,57,Low
+SUB0393,EMP1183,Finance,Notion,Project Management,Monthly,9.87,20,15,78.9,11,2026-10-17,2368.8,197.4,Yes,Active,South,5,49.35,0,24,Medium
+SUB0394,EMP1154,Engineering,Workday,HR & Finance,Annual,56.94,5,1,39.7,118,2026-12-09,2903.94,284.7,Yes,Active,East,4,227.76,1,77,High
+SUB0395,EMP1072,Marketing,Microsoft Teams,Communication,Monthly,14.28,75,46,61.6,11,2026-07-03,12852.0,1071.0,Yes,Active,East,29,414.12,0,-82,Low
+SUB0396,EMP1180,Product,GitHub,Engineering,Annual,23.19,75,71,94.8,28,2026-01-21,17740.35,1739.25,Yes,Active,East,4,92.76,0,-245,Low
+SUB0397,EMP1065,Marketing,Slack,Communication,Monthly,9.53,10,7,70.7,6,2026-04-20,1143.6,95.3,Yes,Active,South,3,28.59,0,-156,Low
+SUB0398,EMP1109,Support,Norton,Security,Monthly,5.52,150,139,93.0,3,2026-06-27,9936.0,828.0,Yes,Active,North,11,60.72,0,-88,Low
+SUB0399,EMP1103,Engineering,AWS,Cloud Infra,Annual,466.5,1,1,9.1,60,2026-09-25,8820.04,864.71,Yes,Active,North,0,0.0,1,2,High
+SUB0400,EMP1180,HR,OneDrive,Storage,Annual,7.94,15,11,79.7,1,2026-04-03,1214.82,119.1,No,Active,West,4,31.76,0,-173,Low
+SUB0401,EMP1010,Design,Datadog,Data & Analytics,Annual,29.65,75,19,25.5,110,2026-10-13,22682.25,2223.75,Yes,Active,East,56,1660.4,1,20,High
+SUB0402,EMP1183,Product,Microsoft Azure,Cloud Infra,Annual,370.15,1,1,24.9,103,2026-12-26,7201.71,706.05,Yes,Active,East,0,0.0,1,94,Medium
+SUB0403,EMP1181,Sales,GitLab,Engineering,Monthly,29.9,50,3,6.0,49,2026-12-28,17940.0,1495.0,Yes,Active,North,47,1405.3,1,96,Medium
+SUB0404,EMP1077,Marketing,AWS,Cloud Infra,Enterprise,494.32,1,1,36.4,34,2026-07-23,4374.48,364.54,Yes,Active,North,0,0.0,1,-62,Medium
+SUB0405,EMP1162,Finance,Asana,Project Management,Enterprise,14.87,15,2,18.3,104,2026-05-21,2676.6,223.05,Yes,Active,West,13,193.31,1,-125,Medium
+SUB0406,EMP1191,Design,Workday,HR & Finance,Monthly,56.81,25,21,85.1,0,2026-06-23,17043.0,1420.25,Yes,Active,West,4,227.24,0,-92,Low
+SUB0407,EMP1162,Finance,Datadog,Data & Analytics,Annual,28.43,20,17,86.4,10,2026-02-12,5799.72,568.6,Yes,Active,South,3,85.29,0,-223,Low
+SUB0408,EMP1049,Sales,Box,Storage,Monthly,20.43,15,4,28.8,34,2026-04-27,3677.4,306.45,Yes,Active,East,11,224.73,1,-149,Medium
+SUB0409,EMP1143,Sales,Workday,HR & Finance,Monthly,58.55,20,16,84.7,1,2026-05-25,14052.0,1171.0,Yes,Active,East,4,234.2,0,-121,Low
+SUB0410,EMP1044,Design,Coursera,Learning,Monthly,50.92,150,53,35.8,50,2026-07-03,91656.0,7638.0,No,Active,East,97,4939.24,1,-82,High
+SUB0411,EMP1196,HR,Zoom,Communication,Enterprise,16.93,50,47,95.3,19,2026-05-28,10158.0,846.5,No,Active,West,3,50.79,0,-118,Low
+SUB0412,EMP1003,Engineering,Udemy Business,Learning,Annual,33.72,50,45,91.3,35,2026-07-17,17197.2,1686.0,No,Active,North,5,168.6,0,-68,Low
+SUB0413,EMP1122,Finance,Salesforce,CRM & Sales,Annual,168.47,30,10,34.5,76,2026-04-23,51551.82,5054.1,Yes,Active,South,20,3369.4,1,-153,High
+SUB0414,EMP1197,Finance,Monday.com,Project Management,Annual,18.26,150,58,39.2,65,2026-09-23,27937.8,2739.0,Yes,Active,East,92,1679.92,1,0,High
+SUB0415,EMP1017,Sales,GitLab,Engineering,Annual,28.03,5,4,89.5,92,2026-01-10,1429.53,140.15,Yes,Active,North,1,28.03,0,-256,Low
+SUB0416,EMP1111,Support,Dropbox,Storage,Monthly,18.6,100,7,7.3,67,2026-07-01,22320.0,1860.0,No,Active,South,93,1729.8,1,-84,High
+SUB0417,EMP1009,Support,Monday.com,Project Management,Annual,15.97,150,88,58.7,2,2026-01-07,24434.1,2395.5,Yes,Active,South,62,990.14,0,-259,Medium
+SUB0418,EMP1053,Product,Box,Storage,Monthly,17.57,200,193,96.7,6,2026-04-13,42168.0,3514.0,Yes,Cancelled,North,7,122.99,0,-163,Low
+SUB0419,EMP1041,Engineering,Power BI,Data & Analytics,Monthly,21.66,5,1,35.0,115,2026-10-13,1299.6,108.3,Yes,Active,West,4,86.64,1,20,High
+SUB0420,EMP1173,Design,Microsoft Teams,Communication,Annual,12.11,20,15,78.9,24,2026-04-10,2470.44,242.2,No,Active,North,5,60.55,0,-166,Low
+SUB0421,EMP1092,Support,GitLab,Engineering,Monthly,27.74,200,129,64.9,33,2026-12-06,66576.0,5548.0,Yes,Active,West,71,1969.54,0,74,Medium
+SUB0422,EMP1174,Finance,Datadog,Data & Analytics,Annual,33.73,25,3,12.4,34,2026-06-29,8601.15,843.25,Yes,Active,North,22,742.06,1,-86,Medium
+SUB0423,EMP1129,Engineering,Power BI,Data & Analytics,Annual,19.48,15,1,12.3,111,2026-07-19,2980.44,292.2,No,Active,East,14,272.72,1,-66,Medium
+SUB0424,EMP1179,Design,Microsoft Azure,Cloud Infra,Annual,379.23,1,1,6.2,47,2026-08-23,5979.14,586.19,Yes,Active,East,0,0.0,1,-31,Medium
+SUB0425,EMP1081,Support,Asana,Project Management,Monthly,12.95,100,19,19.4,90,2026-10-29,15540.0,1295.0,Yes,Active,North,81,1048.95,1,36,High
+SUB0426,EMP1134,Support,Zoho CRM,CRM & Sales,Monthly,48.05,50,35,70.9,6,2026-01-30,28830.0,2402.5,No,Active,West,15,720.75,0,-236,Low
+SUB0427,EMP1115,Sales,OneDrive,Storage,Monthly,7.3,150,126,84.0,40,2026-04-16,13140.0,1095.0,Yes,Active,West,24,175.2,0,-160,Low
+SUB0428,EMP1118,Product,GitHub,Engineering,Annual,23.37,10,7,79.8,4,2026-12-08,2383.74,233.7,Yes,Active,South,3,70.11,0,76,Medium
+SUB0429,EMP1180,Marketing,Jenkins,Engineering,Monthly,0.0,50,16,33.6,33,2026-11-21,0.0,0.0,No,Active,North,34,0.0,1,59,Medium
+SUB0430,EMP1194,Sales,Box,Storage,Annual,16.47,10,7,77.5,6,2026-02-04,1679.94,164.7,No,Active,South,3,49.41,0,-231,Low
+SUB0431,EMP1187,Product,Docker Hub,Engineering,Annual,8.11,5,4,88.7,0,2026-05-19,413.61,40.55,Yes,Cancelled,South,1,8.11,0,-127,Low
+SUB0432,EMP1106,Sales,Zoho CRM,CRM & Sales,Enterprise,42.96,5,4,87.9,1,2026-02-17,2577.6,214.8,Yes,Active,South,1,42.96,0,-218,Low
+SUB0433,EMP1175,HR,Adobe Creative Cloud,Design,Monthly,60.16,10,2,25.8,41,2026-01-11,7219.2,601.6,Yes,Active,South,8,481.28,1,-255,Medium
+SUB0434,EMP1100,Marketing,Udemy Business,Learning,Monthly,33.97,10,7,79.1,7,2026-08-31,4076.4,339.7,No,Cancelled,North,3,101.91,0,-23,Low
+SUB0435,EMP1035,Design,Google Cloud,Cloud Infra,Annual,295.19,1,1,58.1,8,2026-12-01,4219.43,413.67,Yes,Active,West,0,0.0,0,69,Medium
+SUB0436,EMP1194,Design,Norton,Security,Enterprise,5.61,30,25,85.7,31,2026-09-04,2019.6,168.3,Yes,Active,East,5,28.05,0,-19,Low
+SUB0437,EMP1080,Marketing,GitLab,Engineering,Monthly,28.46,200,74,37.4,41,2026-06-11,68304.0,5692.0,Yes,Active,West,126,3585.96,1,-104,Medium
+SUB0438,EMP1086,Design,Jira,Project Management,Annual,11.88,50,16,33.5,71,2026-07-02,6058.8,594.0,Yes,Active,West,34,403.92,1,-83,Medium
+SUB0439,EMP1031,Finance,GitHub,Engineering,Annual,18.97,200,72,36.2,59,2026-07-22,38698.8,3794.0,Yes,Active,North,128,2428.16,1,-63,High
+SUB0440,EMP1088,Sales,Docker Hub,Engineering,Enterprise,9.34,200,189,94.5,33,2026-05-21,22416.0,1868.0,Yes,Active,East,11,102.74,0,-125,Low
+SUB0441,EMP1098,Design,QuickBooks,HR & Finance,Annual,33.05,5,2,59.3,87,2026-06-12,1685.55,165.25,Yes,Active,North,3,99.15,0,-103,Medium
+SUB0442,EMP1178,Product,Google Workspace,Communication,Enterprise,13.67,15,10,69.4,10,2026-09-03,2460.6,205.05,Yes,Active,East,5,68.35,0,-20,Low
+SUB0443,EMP1172,Sales,Jira,Project Management,Annual,10.95,15,9,60.3,5,2026-10-21,1675.35,164.25,Yes,Active,West,6,65.7,0,28,Medium
+SUB0444,EMP1114,Engineering,QuickBooks,HR & Finance,Annual,36.9,100,20,20.5,106,2026-03-13,37638.0,3690.0,Yes,Active,West,80,2952.0,1,-194,High
+SUB0445,EMP1153,HR,Norton,Security,Annual,5.3,200,64,32.0,104,2026-12-23,10812.0,1060.0,Yes,Inactive,East,136,720.8,0,91,Medium
+SUB0446,EMP1071,Design,Udemy Business,Learning,Monthly,38.6,200,44,22.4,52,2026-04-23,92640.0,7720.0,Yes,Active,South,156,6021.6,1,-153,High
+SUB0447,EMP1050,Design,Google Workspace,Communication,Annual,15.78,30,17,58.3,113,2026-09-13,4828.68,473.4,No,Active,North,13,205.14,0,-10,Medium
+SUB0448,EMP1074,Sales,Jenkins,Engineering,Enterprise,0.0,25,14,57.5,29,2026-09-14,0.0,0.0,Yes,Active,South,11,0.0,0,-9,Low
+SUB0449,EMP1025,HR,Zoom,Communication,Enterprise,18.13,50,36,73.1,5,2026-02-13,10878.0,906.5,Yes,Active,West,14,253.82,0,-222,Low
+SUB0450,EMP1172,Marketing,BambooHR,HR & Finance,Enterprise,16.47,15,1,10.8,74,2026-02-08,2964.6,247.05,Yes,Active,East,14,230.58,1,-227,Medium
+SUB0451,EMP1006,Finance,Snowflake,Data & Analytics,Monthly,231.77,75,41,55.0,19,2026-06-16,208593.0,17382.75,Yes,Active,West,34,7880.18,0,-99,Medium
+SUB0452,EMP1180,Product,Datadog,Data & Analytics,Annual,29.93,10,1,11.3,77,2026-02-10,3052.86,299.3,No,Active,North,9,269.37,1,-225,Medium
+SUB0453,EMP1034,Sales,Jenkins,Engineering,Annual,0.0,20,12,64.2,1,2026-07-21,0.0,0.0,Yes,Active,East,8,0.0,0,-64,Low
+SUB0454,EMP1015,Support,Trello,Project Management,Monthly,5.52,75,59,78.8,16,2026-11-28,4968.0,414.0,Yes,Active,East,16,88.32,0,66,Medium
+SUB0455,EMP1157,Marketing,Adobe Creative Cloud,Design,Annual,55.2,200,162,81.2,56,2026-10-03,112608.0,11040.0,Yes,Active,East,38,2097.6,0,10,High
+SUB0456,EMP1086,Marketing,Asana,Project Management,Monthly,14.78,10,9,91.5,6,2026-12-10,1773.6,147.8,Yes,Active,East,1,14.78,0,78,Medium
+SUB0457,EMP1032,Support,GitHub,Engineering,Monthly,21.03,30,17,56.8,14,2026-07-31,7570.8,630.9,No,Active,South,13,273.39,0,-54,Low
+SUB0458,EMP1001,Sales,Udemy Business,Learning,Monthly,40.26,30,21,70.0,0,2026-03-24,14493.6,1207.8,Yes,Active,East,9,362.34,0,-183,Low
+SUB0459,EMP1094,Support,Okta,Security,Annual,11.37,25,2,9.4,71,2026-10-02,2899.35,284.25,No,Active,East,23,261.51,1,9,Medium
+SUB0460,EMP1184,Sales,Monday.com,Project Management,Enterprise,16.41,20,2,14.3,36,2026-03-21,3938.4,328.2,No,Active,West,18,295.38,1,-186,Medium
+SUB0461,EMP1159,Product,Box,Storage,Monthly,18.92,200,157,78.8,4,2026-08-17,45408.0,3784.0,Yes,Active,North,43,813.56,0,-37,Low
+SUB0462,EMP1082,Finance,Snowflake,Data & Analytics,Enterprise,210.47,25,19,78.0,21,2026-01-30,63141.0,5261.75,Yes,Active,South,6,1262.82,0,-236,Low
+SUB0463,EMP1131,Product,Salesforce,CRM & Sales,Annual,169.61,15,2,18.9,73,2026-05-20,25950.33,2544.15,No,Active,West,13,2204.93,1,-126,High
+SUB0464,EMP1101,HR,DigitalOcean,Cloud Infra,Monthly,98.94,1,1,25.1,80,2026-12-17,2157.36,179.78,Yes,Active,South,0,0.0,1,85,High
+SUB0465,EMP1187,Sales,AWS,Cloud Infra,Enterprise,410.13,1,1,83.4,36,2026-04-19,9444.24,787.02,Yes,Active,East,0,0.0,0,-157,Low
+SUB0466,EMP1027,Engineering,Trello,Project Management,Monthly,6.44,100,7,7.1,95,2026-01-18,7728.0,644.0,No,Active,East,93,598.92,1,-248,Medium
+SUB0467,EMP1066,Support,Monday.com,Project Management,Monthly,17.46,100,16,16.6,67,2026-08-27,20952.0,1746.0,Yes,Inactive,South,84,1466.64,0,-27,High
+SUB0468,EMP1044,Marketing,Microsoft Azure,Cloud Infra,Enterprise,379.35,1,1,68.9,2,2026-03-07,3893.88,324.49,No,Active,South,0,0.0,0,-200,Low
+SUB0469,EMP1192,Engineering,BambooHR,HR & Finance,Annual,20.0,10,8,83.5,7,2026-09-08,2040.0,200.0,No,Active,West,2,40.0,0,-15,Low
+SUB0470,EMP1027,HR,Snowflake,Data & Analytics,Annual,208.71,50,27,55.7,33,2026-04-10,106442.1,10435.5,No,Active,West,23,4800.33,0,-166,Medium
+SUB0471,EMP1149,Design,Canva,Design,Enterprise,13.81,5,4,94.2,12,2026-09-04,828.6,69.05,Yes,Active,South,1,13.81,0,-19,Low
+SUB0472,EMP1064,HR,1Password,Security,Monthly,7.51,15,9,60.9,59,2026-11-18,1351.8,112.65,No,Active,East,6,45.06,0,56,Low
+SUB0473,EMP1056,HR,Expensify,HR & Finance,Annual,10.04,15,11,76.3,8,2026-08-05,1536.12,150.6,Yes,Active,East,4,40.16,0,-49,Low
+SUB0474,EMP1133,Design,Norton,Security,Monthly,5.42,200,128,64.2,0,2026-05-10,13008.0,1084.0,No,Active,West,72,390.24,0,-136,Low
+SUB0475,EMP1116,Support,Canva,Design,Monthly,14.08,25,22,90.0,18,2026-06-28,4224.0,352.0,Yes,Active,West,3,42.24,0,-87,Low
+SUB0476,EMP1002,HR,Microsoft Azure,Cloud Infra,Monthly,381.47,1,1,16.2,51,2026-02-03,8523.72,710.31,Yes,Active,South,0,0.0,1,-232,Medium
+SUB0477,EMP1152,Engineering,Adobe Creative Cloud,Design,Monthly,64.71,15,1,6.1,62,2026-02-15,11647.8,970.65,Yes,Active,West,14,905.94,1,-220,Medium
+SUB0478,EMP1041,Sales,Snowflake,Data & Analytics,Monthly,232.48,200,137,68.9,33,2026-08-12,557952.0,46496.0,Yes,Active,North,63,14646.24,0,-42,Low
+SUB0479,EMP1047,Sales,Canva,Design,Monthly,12.94,10,3,32.7,69,2026-08-05,1552.8,129.4,Yes,Inactive,South,7,90.58,0,-49,Medium
+SUB0480,EMP1167,Design,Figma,Design,Monthly,15.67,150,129,86.5,0,2026-05-12,28206.0,2350.5,Yes,Active,South,21,329.07,0,-134,Low
+SUB0481,EMP1110,Sales,Workday,HR & Finance,Annual,54.08,100,14,14.3,80,2026-09-16,55161.6,5408.0,Yes,Active,South,86,4650.88,1,-7,High
+SUB0482,EMP1116,Product,BambooHR,HR & Finance,Annual,17.49,20,17,86.7,42,2026-01-18,3567.96,349.8,Yes,Active,North,3,52.47,0,-248,Low
+SUB0483,EMP1129,Engineering,Datadog,Data & Analytics,Monthly,31.78,25,8,35.1,90,2026-03-29,9534.0,794.5,No,Active,West,17,540.26,1,-178,Medium
+SUB0484,EMP1030,Product,Box,Storage,Annual,16.58,50,45,90.4,9,2026-05-17,8455.8,829.0,No,Active,South,5,82.9,0,-129,Low
+SUB0485,EMP1081,Sales,Tableau,Data & Analytics,Enterprise,81.17,50,14,28.5,81,2026-03-17,48702.0,4058.5,Yes,Active,East,36,2922.12,1,-190,High
+SUB0486,EMP1067,Engineering,HubSpot,CRM & Sales,Monthly,89.12,20,13,65.2,6,2026-03-14,21388.8,1782.4,No,Active,East,7,623.84,0,-193,Low
+SUB0487,EMP1178,Product,Trello,Project Management,Annual,6.39,50,30,61.3,20,2026-01-10,3258.9,319.5,No,Active,South,20,127.8,0,-256,Low
+SUB0488,EMP1145,Engineering,Monday.com,Project Management,Monthly,18.1,20,15,79.0,41,2026-10-14,4344.0,362.0,Yes,Active,East,5,90.5,0,21,Medium
+SUB0489,EMP1188,Marketing,Expensify,HR & Finance,Enterprise,9.57,100,28,28.4,51,2026-04-22,11484.0,957.0,Yes,Active,West,72,689.04,1,-154,Medium
+SUB0490,EMP1070,Engineering,BambooHR,HR & Finance,Monthly,17.26,150,43,28.9,114,2026-11-15,31068.0,2589.0,Yes,Active,North,107,1846.82,1,53,High
+SUB0491,EMP1000,Finance,Microsoft Teams,Communication,Monthly,13.27,5,2,58.6,19,2026-08-21,796.2,66.35,Yes,Active,South,3,39.81,0,-33,Low
+SUB0492,EMP1175,Support,AWS,Cloud Infra,Annual,497.31,1,1,11.8,87,2026-05-27,7684.78,753.41,Yes,Active,North,0,0.0,1,-119,Medium
+SUB0493,EMP1023,HR,Canva,Design,Enterprise,14.42,15,8,59.6,22,2026-09-12,2595.6,216.3,Yes,Active,East,7,100.94,0,-11,Low
+SUB0494,EMP1130,Engineering,Notion,Project Management,Monthly,9.12,10,9,94.0,65,2026-09-05,1094.4,91.2,Yes,Active,South,1,9.12,0,-18,Low
+SUB0495,EMP1077,Design,Datadog,Data & Analytics,Annual,32.42,100,39,39.2,119,2026-11-29,33068.4,3242.0,Yes,Inactive,North,61,1977.62,0,67,High
+SUB0496,EMP1129,Design,Notion,Project Management,Monthly,9.08,10,2,21.2,40,2026-06-01,1089.6,90.8,Yes,Active,North,8,72.64,1,-114,Medium
+SUB0497,EMP1112,HR,Box,Storage,Monthly,18.1,100,73,73.3,30,2026-03-13,21720.0,1810.0,No,Active,South,27,488.7,0,-194,Low
+SUB0498,EMP1191,Support,Canva,Design,Monthly,13.84,150,56,37.6,97,2026-04-24,24912.0,2076.0,No,Active,North,94,1300.96,1,-152,High
+SUB0499,EMP1161,HR,Docker Hub,Engineering,Monthly,10.04,100,76,76.1,2,2026-07-22,12048.0,1004.0,Yes,Active,West,24,240.96,0,-63,Low
+SUB0500,EMP1031,Sales,Google Cloud,Cloud Infra,Monthly,345.82,1,1,93.6,24,2026-04-23,3518.04,293.17,Yes,Inactive,East,0,0.0,0,-153,Low
+SUB0501,EMP1183,Engineering,Jira,Project Management,Annual,12.06,150,9,6.2,50,2026-01-20,18451.8,1809.0,Yes,Inactive,West,141,1700.46,0,-246,Medium
+SUB0502,EMP1057,Engineering,Expensify,HR & Finance,Enterprise,10.26,5,4,84.7,39,2026-11-13,615.6,51.3,Yes,Active,West,1,10.26,0,51,Medium
+SUB0503,EMP1106,Finance,Snowflake,Data & Analytics,Monthly,239.5,50,49,98.4,5,2026-07-16,143700.0,11975.0,No,Active,North,1,239.5,0,-69,Low
+SUB0504,EMP1165,Sales,Docker Hub,Engineering,Monthly,9.01,150,82,55.3,5,2026-10-26,16218.0,1351.5,Yes,Active,East,68,612.68,0,33,Medium
+SUB0505,EMP1029,Sales,Zoho CRM,CRM & Sales,Enterprise,41.27,30,3,13.2,46,2026-07-22,14857.2,1238.1,Yes,Active,East,27,1114.29,1,-63,Medium
+SUB0506,EMP1016,Engineering,Monday.com,Project Management,Annual,15.72,200,153,76.7,2,2026-12-14,32068.8,3144.0,Yes,Active,East,47,738.84,0,82,Medium
+SUB0507,EMP1124,Product,1Password,Security,Monthly,7.44,50,16,32.4,87,2026-02-15,4464.0,372.0,Yes,Active,South,34,252.96,1,-220,Medium
+SUB0508,EMP1167,Design,QuickBooks,HR & Finance,Monthly,39.86,25,14,58.4,5,2026-11-10,11958.0,996.5,Yes,Active,South,11,438.46,0,48,Medium
+SUB0509,EMP1161,Sales,Monday.com,Project Management,Monthly,14.46,5,3,77.1,32,2026-12-24,867.6,72.3,Yes,Active,West,2,28.92,0,92,Low
+SUB0510,EMP1149,Finance,Zoom,Communication,Annual,16.76,20,14,74.6,24,2026-03-12,3419.04,335.2,Yes,Active,South,6,100.56,0,-195,Low
+SUB0511,EMP1134,HR,Zoom,Communication,Annual,16.0,20,12,60.2,31,2026-03-22,3264.0,320.0,Yes,Active,North,8,128.0,0,-185,Low
+SUB0512,EMP1096,Finance,GitLab,Engineering,Monthly,27.4,200,113,56.9,9,2026-12-12,65760.0,5480.0,Yes,Active,West,87,2383.8,0,80,High
+SUB0513,EMP1150,Design,1Password,Security,Annual,7.88,30,26,89.1,19,2026-03-12,2411.28,236.4,Yes,Active,East,4,31.52,0,-195,Low
+SUB0514,EMP1070,HR,Zoom,Communication,Annual,14.67,150,135,90.6,8,2026-04-25,22445.1,2200.5,Yes,Active,East,15,220.05,0,-151,Low
+SUB0515,EMP1040,Engineering,Docker Hub,Engineering,Enterprise,9.06,20,13,65.6,68,2026-08-29,2174.4,181.2,Yes,Active,East,7,63.42,0,-25,Low
+SUB0516,EMP1088,Sales,Figma,Design,Annual,15.27,200,127,63.5,12,2026-05-19,31150.8,3054.0,Yes,Active,East,73,1114.71,0,-127,Low
+SUB0517,EMP1087,Support,Workday,HR & Finance,Annual,61.24,30,7,25.2,95,2026-05-12,18739.44,1837.2,Yes,Active,West,23,1408.52,1,-134,Medium
+SUB0518,EMP1016,Product,Tableau,Data & Analytics,Monthly,83.42,75,48,65.2,10,2026-03-31,75078.0,6256.5,No,Active,South,27,2252.34,0,-176,Low
+SUB0519,EMP1100,Design,Dropbox,Storage,Monthly,16.76,75,49,65.6,6,2026-01-30,15084.0,1257.0,No,Active,East,26,435.76,0,-236,Low
+SUB0520,EMP1008,Finance,OneDrive,Storage,Annual,6.88,5,4,88.4,60,2026-09-27,350.88,34.4,Yes,Active,North,1,6.88,0,4,Medium
+SUB0521,EMP1081,Sales,Workday,HR & Finance,Monthly,59.73,200,130,65.0,50,2026-06-04,143352.0,11946.0,Yes,Active,West,70,4181.1,0,-111,Medium
+SUB0522,EMP1054,Marketing,Udemy Business,Learning,Enterprise,37.52,15,14,95.0,28,2026-10-24,6753.6,562.8,Yes,Active,East,1,37.52,0,31,Medium
+SUB0523,EMP1048,Sales,GitLab,Engineering,Enterprise,30.62,75,72,96.4,27,2026-10-21,27558.0,2296.5,No,Active,North,3,91.86,0,28,Low
+SUB0524,EMP1042,Finance,GitLab,Engineering,Monthly,31.53,30,22,74.8,8,2026-08-20,11350.8,945.9,Yes,Active,East,8,252.24,0,-34,Low
+SUB0525,EMP1107,Support,BambooHR,HR & Finance,Monthly,17.91,50,28,56.2,2,2026-07-13,10746.0,895.5,Yes,Active,South,22,394.02,0,-72,Low
+SUB0526,EMP1086,Product,BambooHR,HR & Finance,Annual,17.33,150,129,86.1,11,2026-02-15,26514.9,2599.5,Yes,Cancelled,West,21,363.93,0,-220,Low
+SUB0527,EMP1099,Product,Zoom,Communication,Monthly,17.34,50,30,61.1,38,2026-12-09,10404.0,867.0,Yes,Active,West,20,346.8,0,77,Medium
+SUB0528,EMP1116,Engineering,Figma,Design,Annual,13.76,15,12,83.5,45,2026-02-13,2105.28,206.4,Yes,Active,North,3,41.28,0,-222,Low
+SUB0529,EMP1142,Product,Power BI,Data & Analytics,Annual,19.03,50,40,80.7,38,2026-01-31,9705.3,951.5,Yes,Active,South,10,190.3,0,-235,Low
+SUB0530,EMP1120,Marketing,Microsoft Teams,Communication,Annual,11.62,150,134,89.7,3,2026-04-15,17778.6,1743.0,Yes,Active,West,16,185.92,0,-161,Low
+SUB0531,EMP1033,Marketing,Zoom,Communication,Annual,15.62,75,65,87.5,6,2026-09-12,11949.3,1171.5,Yes,Active,North,10,156.2,0,-11,Low
+SUB0532,EMP1084,Product,Zoho CRM,CRM & Sales,Monthly,49.63,150,49,32.7,73,2026-01-21,89334.0,7444.5,Yes,Active,East,101,5012.63,1,-245,High
+SUB0533,EMP1184,Engineering,Tableau,Data & Analytics,Annual,69.78,20,12,60.5,25,2026-03-09,14235.12,1395.6,Yes,Active,South,8,558.24,0,-198,Low
+SUB0534,EMP1105,Product,BambooHR,HR & Finance,Annual,16.81,100,67,67.3,26,2026-10-24,17146.2,1681.0,Yes,Active,East,33,554.73,0,31,Medium
+SUB0535,EMP1153,Sales,BambooHR,HR & Finance,Annual,16.82,30,27,90.4,1,2026-11-23,5146.92,504.6,Yes,Active,South,3,50.46,0,61,Medium
+SUB0536,EMP1009,Product,OneDrive,Storage,Annual,7.78,30,20,68.9,0,2026-01-19,2380.68,233.4,Yes,Inactive,West,10,77.8,0,-247,Low
+SUB0537,EMP1095,Finance,GitLab,Engineering,Annual,27.82,25,20,82.0,13,2026-06-06,7094.1,695.5,Yes,Active,South,5,139.1,0,-109,Low
+SUB0538,EMP1125,Engineering,Notion,Project Management,Enterprise,10.92,150,34,22.7,35,2026-07-30,19656.0,1638.0,Yes,Cancelled,South,116,1266.72,0,-55,Medium
+SUB0539,EMP1145,Support,Dropbox,Storage,Annual,16.01,50,46,92.1,10,2026-01-15,8165.1,800.5,Yes,Active,North,4,64.04,0,-251,Low
+SUB0540,EMP1160,Finance,Adobe Creative Cloud,Design,Monthly,57.46,75,70,93.9,10,2026-12-29,51714.0,4309.5,No,Active,West,5,287.3,0,97,Low
+SUB0541,EMP1139,Finance,Salesforce,CRM & Sales,Annual,176.76,75,69,92.3,6,2026-03-15,135221.4,13257.0,Yes,Active,West,6,1060.56,0,-192,Low
+SUB0542,EMP1185,Sales,DigitalOcean,Cloud Infra,Enterprise,98.5,1,1,11.0,35,2026-04-26,882.84,73.57,Yes,Active,South,0,0.0,1,-150,Medium
+SUB0543,EMP1087,Design,Jira,Project Management,Annual,10.44,10,3,38.7,84,2026-01-30,1064.88,104.4,Yes,Active,South,7,73.08,1,-236,Medium
+SUB0544,EMP1180,Sales,BambooHR,HR & Finance,Monthly,18.03,50,44,88.7,42,2026-08-25,10818.0,901.5,No,Active,East,6,108.18,0,-29,Low
+SUB0545,EMP1131,Sales,Docker Hub,Engineering,Monthly,9.01,150,126,84.5,7,2026-08-17,16218.0,1351.5,Yes,Active,East,24,216.24,0,-37,Low
+SUB0546,EMP1122,Marketing,GitHub,Engineering,Monthly,21.26,150,148,98.8,5,2026-06-11,38268.0,3189.0,No,Active,South,2,42.52,0,-104,Low
+SUB0547,EMP1011,HR,Snowflake,Data & Analytics,Monthly,215.48,20,18,90.6,0,2026-05-20,51715.2,4309.6,Yes,Inactive,North,2,430.96,0,-126,Low
+SUB0548,EMP1041,Marketing,DigitalOcean,Cloud Infra,Annual,88.68,1,1,91.5,27,2026-12-10,1721.45,168.77,Yes,Active,South,0,0.0,0,78,Medium
+SUB0549,EMP1004,Engineering,Dropbox,Storage,Annual,18.09,25,21,85.8,53,2026-03-16,4612.95,452.25,No,Active,East,4,72.36,0,-191,Low
+SUB0550,EMP1163,Product,Okta,Security,Annual,13.75,30,4,15.7,87,2026-09-19,4207.5,412.5,No,Active,West,26,357.5,1,-4,Medium
+SUB0551,EMP1168,Marketing,Okta,Security,Annual,13.64,100,62,62.9,4,2026-04-30,13912.8,1364.0,No,Active,North,38,518.32,0,-146,Low
+SUB0552,EMP1111,Finance,Jira,Project Management,Monthly,9.6,10,6,65.0,7,2026-06-23,1152.0,96.0,Yes,Active,West,4,38.4,0,-92,Low
+SUB0553,EMP1067,Support,Expensify,HR & Finance,Enterprise,9.37,75,70,93.9,18,2026-08-31,8433.0,702.75,Yes,Active,West,5,46.85,0,-23,Low
+SUB0554,EMP1182,Sales,Norton,Security,Annual,5.49,10,6,60.8,14,2026-10-01,559.98,54.9,Yes,Active,South,4,21.96,0,8,Medium
+SUB0555,EMP1112,Sales,GitLab,Engineering,Enterprise,32.37,150,135,90.1,12,2026-06-23,58266.0,4855.5,Yes,Active,West,15,485.55,0,-92,Low
+SUB0556,EMP1180,Product,QuickBooks,HR & Finance,Monthly,32.47,100,73,73.8,0,2026-09-23,38964.0,3247.0,No,Active,South,27,876.69,0,0,Low
+SUB0557,EMP1061,Marketing,Okta,Security,Monthly,11.67,50,38,77.6,12,2026-11-10,7002.0,583.5,Yes,Active,South,12,140.04,0,48,Medium
+SUB0558,EMP1009,Engineering,Workday,HR & Finance,Annual,52.63,20,15,75.8,3,2026-05-02,10736.52,1052.6,No,Active,North,5,263.15,0,-144,Low
+SUB0559,EMP1091,Marketing,OneDrive,Storage,Annual,7.1,100,36,36.2,93,2026-12-26,7242.0,710.0,Yes,Active,East,64,454.4,1,94,Medium
+SUB0560,EMP1146,Marketing,Microsoft Azure,Cloud Infra,Enterprise,346.47,1,1,58.5,4,2026-06-01,2200.08,183.34,No,Active,East,0,0.0,0,-114,Low
+SUB0561,EMP1056,Product,HubSpot,CRM & Sales,Annual,92.75,5,1,26.3,101,2026-12-27,4730.25,463.75,Yes,Active,East,4,371.0,1,95,Medium
+SUB0562,EMP1004,Finance,Asana,Project Management,Enterprise,12.33,150,144,96.6,53,2026-01-19,22194.0,1849.5,Yes,Active,South,6,73.98,0,-247,Medium
+SUB0563,EMP1039,Finance,Okta,Security,Monthly,13.27,10,9,96.9,24,2026-08-03,1592.4,132.7,No,Active,South,1,13.27,0,-51,Low
+SUB0564,EMP1116,Sales,GitHub,Engineering,Monthly,19.51,30,2,7.6,108,2026-06-22,7023.6,585.3,Yes,Active,South,28,546.28,1,-93,Medium
+SUB0565,EMP1072,Marketing,Coursera,Learning,Annual,55.59,50,41,82.5,22,2026-07-28,28350.9,2779.5,Yes,Active,South,9,500.31,0,-57,Low
+SUB0566,EMP1035,Product,Udemy Business,Learning,Monthly,39.0,10,8,85.5,107,2026-04-15,4680.0,390.0,Yes,Active,North,2,78.0,0,-161,Low
+SUB0567,EMP1145,Sales,Microsoft Teams,Communication,Monthly,12.81,20,18,92.5,18,2026-03-24,3074.4,256.2,Yes,Active,North,2,25.62,0,-183,Low
+SUB0568,EMP1014,Finance,Norton,Security,Monthly,5.45,15,10,71.3,3,2026-05-21,981.0,81.75,Yes,Active,South,5,27.25,0,-125,Low
+SUB0569,EMP1058,Support,Norton,Security,Monthly,5.5,15,10,70.1,5,2026-03-23,990.0,82.5,Yes,Active,North,5,27.5,0,-184,Low
+SUB0570,EMP1171,Finance,Dropbox,Storage,Monthly,18.93,50,37,74.6,16,2026-11-12,11358.0,946.5,Yes,Active,East,13,246.09,0,50,Medium
+SUB0571,EMP1034,HR,Expensify,HR & Finance,Annual,10.13,10,5,59.1,10,2026-11-13,1033.26,101.3,Yes,Active,West,5,50.65,0,51,Medium
+SUB0572,EMP1124,Design,GitHub,Engineering,Annual,23.57,20,13,69.2,3,2026-03-05,4808.28,471.4,Yes,Active,North,7,164.99,0,-202,Low
+SUB0573,EMP1139,Marketing,Google Workspace,Communication,Monthly,15.22,20,12,61.1,0,2026-12-13,3652.8,304.4,Yes,Cancelled,West,8,121.76,0,81,Medium
+SUB0574,EMP1118,Design,Datadog,Data & Analytics,Annual,35.52,10,8,80.4,5,2026-09-06,3623.04,355.2,Yes,Active,West,2,71.04,0,-17,Low
+SUB0575,EMP1194,Product,Salesforce,CRM & Sales,Monthly,157.2,10,8,87.5,36,2026-01-12,18864.0,1572.0,No,Active,South,2,314.4,0,-254,Low
+SUB0576,EMP1087,Product,GitLab,Engineering,Enterprise,27.54,30,17,58.2,8,2026-08-15,9914.4,826.2,Yes,Active,East,13,358.02,0,-39,Low
+SUB0577,EMP1002,Marketing,Power BI,Data & Analytics,Monthly,18.04,30,26,86.8,14,2026-02-20,6494.4,541.2,No,Active,East,4,72.16,0,-215,Low
+SUB0578,EMP1154,Sales,Box,Storage,Annual,17.4,25,4,16.1,75,2026-10-11,4437.0,435.0,No,Active,East,21,365.4,1,18,Medium
+SUB0579,EMP1021,Design,Zoho CRM,CRM & Sales,Annual,48.39,20,11,57.7,0,2026-05-30,9871.56,967.8,Yes,Active,North,9,435.51,0,-116,Low
+SUB0580,EMP1011,Design,Figma,Design,Monthly,17.19,50,45,90.9,48,2026-11-07,10314.0,859.5,Yes,Active,South,5,85.95,0,45,Medium
+SUB0581,EMP1183,Sales,AWS,Cloud Infra,Annual,468.93,1,1,31.3,72,2026-05-02,4362.13,427.66,Yes,Active,North,0,0.0,1,-144,Medium
+SUB0582,EMP1184,Support,Canva,Design,Annual,12.45,20,11,57.3,13,2026-04-24,2539.8,249.0,Yes,Active,West,9,112.05,0,-152,Low
+SUB0583,EMP1083,Marketing,Zoho CRM,CRM & Sales,Monthly,45.62,100,68,68.1,3,2026-04-22,54744.0,4562.0,Yes,Active,East,32,1459.84,0,-154,Low
+SUB0584,EMP1116,Product,Norton,Security,Monthly,5.3,5,4,80.4,12,2026-07-12,318.0,26.5,Yes,Active,South,1,5.3,0,-73,Low
+SUB0585,EMP1155,Design,Microsoft Azure,Cloud Infra,Enterprise,354.67,1,1,24.1,101,2026-03-01,6543.48,545.29,Yes,Active,West,0,0.0,1,-206,Medium
+SUB0586,EMP1154,Finance,Dropbox,Storage,Annual,16.73,100,36,36.9,41,2026-09-28,17064.6,1673.0,Yes,Active,West,64,1070.72,1,5,High
+SUB0587,EMP1094,Sales,Microsoft Teams,Communication,Monthly,12.45,50,7,14.1,114,2026-08-11,7470.0,622.5,No,Active,West,43,535.35,1,-43,Medium
+SUB0588,EMP1154,Design,Box,Storage,Annual,20.69,30,21,70.0,6,2026-04-12,6331.14,620.7,No,Cancelled,South,9,186.21,0,-164,Low
+SUB0589,EMP1158,Product,Salesforce,CRM & Sales,Monthly,151.19,50,48,97.9,34,2026-08-24,90714.0,7559.5,Yes,Active,North,2,302.38,0,-30,Low
+SUB0590,EMP1068,Finance,Google Workspace,Communication,Monthly,12.74,5,3,74.3,8,2026-10-29,764.4,63.7,Yes,Active,West,2,25.48,0,36,Medium
+SUB0591,EMP1176,Design,Udemy Business,Learning,Enterprise,38.17,10,9,95.9,7,2026-07-11,4580.4,381.7,Yes,Active,East,1,38.17,0,-74,Low
+SUB0592,EMP1122,Engineering,1Password,Security,Enterprise,8.51,25,21,85.0,25,2026-04-08,2553.0,212.75,Yes,Active,North,4,34.04,0,-168,Low
+SUB0593,EMP1089,Marketing,Workday,HR & Finance,Monthly,62.88,25,7,30.1,118,2026-06-30,18864.0,1572.0,No,Active,East,18,1131.84,1,-85,Medium
+SUB0594,EMP1190,Support,Snowflake,Data & Analytics,Monthly,217.36,200,75,37.8,70,2026-09-03,521664.0,43472.0,Yes,Active,East,125,27170.0,1,-20,High
+SUB0595,EMP1028,Support,Zoom,Communication,Monthly,16.14,75,25,34.5,60,2026-07-19,14526.0,1210.5,Yes,Active,North,50,807.0,1,-66,Medium
+SUB0596,EMP1158,HR,Norton,Security,Annual,4.56,20,2,11.4,82,2026-11-03,930.24,91.2,Yes,Cancelled,East,18,82.08,0,41,High
+SUB0597,EMP1071,Finance,Okta,Security,Enterprise,13.78,5,3,67.5,67,2026-06-10,826.8,68.9,Yes,Active,North,2,27.56,0,-105,Low
+SUB0598,EMP1086,Design,Tableau,Data & Analytics,Annual,72.82,25,21,85.3,23,2026-04-22,18569.1,1820.5,No,Active,East,4,291.28,0,-154,Low
+SUB0599,EMP1001,Marketing,Notion,Project Management,Annual,10.51,20,13,69.5,7,2026-10-11,2144.04,210.2,Yes,Active,North,7,73.57,0,18,Medium
+SUB0600,EMP1104,Product,Power BI,Data & Analytics,Monthly,19.5,25,24,96.8,0,2026-06-07,5850.0,487.5,Yes,Active,East,1,19.5,0,-108,Low
