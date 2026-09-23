@@ -21,9 +21,6 @@ This project converts **600 raw SaaS subscriptions into a decision platform** th
 ## 🗂️ Dataset
 - **File:** `dataset_saas_sprawl.csv` (600 rows × 22 columns)
 - **Source:** Synthetic dataset generated for this project, modelled on real-world SaaS patterns
-  (patterns inspired by public Kaggle SaaS / subscription datasets). No masterclass learning dataset used.
-- **Dataset link (this repo):** _paste your GitHub repo link here after upload, e.g._
-  `https://github.com/<your-username>/saas-sprawl-bi/blob/main/dataset_saas_sprawl.csv`
 - **Columns:** Subscription_ID, Owner_ID, Department, SaaS_Tool, Category, Plan_Type,
   Cost_Per_License_Month, Licenses_Purchased, Licenses_Used, Utilization_Pct,
   Last_Login_Days_Ago, Renewal_Date, Annual_Contract_Value, Monthly_Spend,
